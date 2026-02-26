@@ -55,7 +55,7 @@ def _resolve_canonical_type(raw_value: str, source: str) -> str:
 
 def _normalize_activity(activity: Dict, type_aliases: Dict[str, str], source: str) -> Dict:
     private = activity.get("private")
-    if private == true:
+    if private == True:
         return {}
     activity_id = _coalesce(activity.get("id"), activity.get("activityId"))
     start_date_local = activity.get("start_date_local") or activity.get("start_date")
