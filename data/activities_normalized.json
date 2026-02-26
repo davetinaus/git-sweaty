@@ -325,6 +325,19 @@
     "year": 2026
   },
   {
+    "date": "2026-02-19",
+    "distance": 11000.0,
+    "elevation_gain": 0.0,
+    "id": "17526153959",
+    "moving_time": 1200.0,
+    "name": "Evening Activity",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-02-19T18:37:25Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
     "date": "2026-02-20",
     "distance": 11100.0,
     "elevation_gain": 0.0,
@@ -334,6 +347,19 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2026-02-20T05:52:11Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-02-20",
+    "distance": 11100.0,
+    "elevation_gain": 0.0,
+    "id": "17526151170",
+    "moving_time": 1200.0,
+    "name": "Afternoon Activity",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-02-20T16:42:27Z",
     "type": "VirtualRide",
     "year": 2026
   },
@@ -351,6 +377,19 @@
     "year": 2026
   },
   {
+    "date": "2026-02-23",
+    "distance": 11200.0,
+    "elevation_gain": 0.0,
+    "id": "17526168674",
+    "moving_time": 1200.0,
+    "name": "Night Activity",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-02-23T21:05:11Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
     "date": "2026-02-24",
     "distance": 11400.0,
     "elevation_gain": 0.0,
@@ -364,6 +403,19 @@
     "year": 2026
   },
   {
+    "date": "2026-02-24",
+    "distance": 11400.0,
+    "elevation_gain": 0.0,
+    "id": "17526144066",
+    "moving_time": 1200.0,
+    "name": "Lunch Activity",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-02-24T11:45:56Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
     "date": "2026-02-26",
     "distance": 11600.0,
     "elevation_gain": 0.0,
@@ -373,6 +425,19 @@
     "raw_activity_type": "VirtualRide",
     "raw_type": "VirtualRide",
     "start_date_local": "2026-02-26T04:30:14Z",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-02-26",
+    "distance": 11600.0,
+    "elevation_gain": 0.0,
+    "id": "17526138254",
+    "moving_time": 1200.0,
+    "name": "Afternoon Activity",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-02-26T15:00:18Z",
     "type": "VirtualRide",
     "year": 2026
   }
