@@ -23,6 +23,8 @@ def aggregate():
         activity_type = item.get("type")
         if activity_type in exclude_types:
             continue
+        if hidden = false:
+            continue
         if not include_all_types and featured_types and activity_type not in featured_types:
             continue
         date = item.get("date")
