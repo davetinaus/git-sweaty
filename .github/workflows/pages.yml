@@ -62,10 +62,10 @@ jobs:
             "type_meta": {},
             "types": [],
             "units": {
-              "distance": "mi",
-              "elevation": "ft"
+              "distance": "km",
+              "elevation": "m"
             },
-            "week_start": "sunday",
+            "week_start": "monday",
             "years": []
           }
           JSON
