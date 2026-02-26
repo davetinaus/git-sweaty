@@ -521,7 +521,7 @@
       }
     }
   },
-  "generated_at": "2026-02-26T03:43:15.762171+00:00",
+  "generated_at": "2026-02-26T03:53:35.445786+00:00",
   "other_bucket": "OtherSports",
   "repo": "davetinaus/git-sweaty",
   "source": "strava",
@@ -550,7 +550,7 @@
     "VirtualRide"
   ],
   "units": {
-    "distance": "km ",
+    "distance": "km",
     "elevation": "m"
   },
   "week_start": "monday",
