@@ -362,5 +362,18 @@
     "start_date_local": "2026-02-24T00:46:18Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-02-26",
+    "distance": 11600.0,
+    "elevation_gain": 0.0,
+    "id": "17526076941",
+    "moving_time": 1200.0,
+    "name": "Afternoon Activity",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-02-26T04:30:14Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
