@@ -54,6 +54,9 @@ def _resolve_canonical_type(raw_value: str, source: str) -> str:
 
 
 def _normalize_activity(activity: Dict, type_aliases: Dict[str, str], source: str) -> Dict:
+    private = activity.get("private")
+    if private == true:
+        return {}
     activity_id = _coalesce(activity.get("id"), activity.get("activityId"))
     start_date_local = activity.get("start_date_local") or activity.get("start_date")
     if not activity_id or not start_date_local:
@@ -175,6 +178,7 @@ def normalize() -> List[Dict]:
         if item.get("id") is not None and item.get("date")
     ]
     for item in items:
+        
         raw_activity_type = str(item.get("raw_activity_type") or item.get("raw_type") or item.get("type") or other_bucket)
         raw_type = str(item.get("raw_type") or raw_activity_type or other_bucket)
         item["raw_activity_type"] = raw_activity_type
