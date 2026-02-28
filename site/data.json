@@ -233,6 +233,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/17526138254",
       "year": 2026
+    },
+    {
+      "date": "2026-02-28",
+      "hour": 19,
+      "name": "Evening Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17549042182",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -434,6 +443,17 @@
           "moving_time": 15707.0
         }
       },
+      "Run": {
+        "2026-02-28": {
+          "activity_ids": [
+            "17549042182"
+          ],
+          "count": 1,
+          "distance": 3883.1,
+          "elevation_gain": 47.9,
+          "moving_time": 2070.0
+        }
+      },
       "VirtualRide": {
         "2026-02-19": {
           "activity_ids": [
@@ -483,7 +503,7 @@
       }
     }
   },
-  "generated_at": "2026-02-27T15:39:26.849066+00:00",
+  "generated_at": "2026-02-28T15:26:16.818902+00:00",
   "other_bucket": "OtherSports",
   "repo": "davetinaus/git-sweaty",
   "source": "strava",
