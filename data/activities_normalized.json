@@ -414,5 +414,18 @@
     "start_date_local": "2026-03-13T17:14:56Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-03-15",
+    "distance": 11900.0,
+    "elevation_gain": 0.0,
+    "id": "17729209124",
+    "moving_time": 1200.0,
+    "name": "Night Ride",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-15T21:00:00Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
