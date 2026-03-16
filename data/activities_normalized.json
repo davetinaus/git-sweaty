@@ -26,6 +26,19 @@
     "year": 2024
   },
   {
+    "date": "2024-12-14",
+    "distance": 37956.6,
+    "elevation_gain": 309.0,
+    "id": "17713284085",
+    "moving_time": 6699.0,
+    "name": "2024 JRAHSCU Annual - Kosciuszko",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2024-12-14T14:30:00Z",
+    "type": "Hike",
+    "year": 2024
+  },
+  {
     "date": "2025-01-11",
     "distance": 2446.2,
     "elevation_gain": 37.8,
@@ -88,6 +101,19 @@
     "raw_type": "Run",
     "start_date_local": "2025-03-22T20:45:20Z",
     "type": "Run",
+    "year": 2025
+  },
+  {
+    "date": "2025-07-25",
+    "distance": 34494.7,
+    "elevation_gain": 1227.7,
+    "id": "17713174969",
+    "moving_time": 23061.0,
+    "name": "Alt Via 2 (partial)",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2025-07-25T09:30:00Z",
+    "type": "Hike",
     "year": 2025
   },
   {
@@ -166,6 +192,32 @@
     "raw_type": "VirtualRide",
     "start_date_local": "2025-12-09T11:55:36Z",
     "type": "VirtualRide",
+    "year": 2025
+  },
+  {
+    "date": "2025-12-13",
+    "distance": 36288.6,
+    "elevation_gain": 618.7,
+    "id": "17712718862",
+    "moving_time": 48098.0,
+    "name": "2025 JRAHSCU Annual - Great South West Walk (D1-2))",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2025-12-13T09:30:00Z",
+    "type": "Hike",
+    "year": 2025
+  },
+  {
+    "date": "2025-12-15",
+    "distance": 34623.7,
+    "elevation_gain": 290.0,
+    "id": "17712749904",
+    "moving_time": 32329.0,
+    "name": "2025 JRAHSCU Annual - Great South West Walk (D3-4)",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2025-12-15T09:30:00Z",
+    "type": "Hike",
     "year": 2025
   },
   {
@@ -452,6 +504,19 @@
     "raw_type": "Ride",
     "start_date_local": "2026-03-16T15:09:58Z",
     "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-03-16",
+    "distance": 12000.0,
+    "elevation_gain": 0.0,
+    "id": "17739321895",
+    "moving_time": 1200.0,
+    "name": "Afternoon Ride",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-03-16T15:09:00Z",
+    "type": "VirtualRide",
     "year": 2026
   }
 ]

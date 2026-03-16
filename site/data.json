@@ -19,6 +19,15 @@
       "year": 2024
     },
     {
+      "date": "2024-12-14",
+      "hour": 14,
+      "name": "2024 JRAHSCU Annual - Kosciuszko",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/17713284085",
+      "year": 2024
+    },
+    {
       "date": "2025-01-11",
       "hour": 21,
       "name": "Night Run",
@@ -61,6 +70,15 @@
       "subtype": "Run",
       "type": "Run",
       "url": "https://www.strava.com/activities/13951943848",
+      "year": 2025
+    },
+    {
+      "date": "2025-07-25",
+      "hour": 9,
+      "name": "Alt Via 2 (partial)",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/17713174969",
       "year": 2025
     },
     {
@@ -115,6 +133,24 @@
       "subtype": "VirtualRide",
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/16692899925",
+      "year": 2025
+    },
+    {
+      "date": "2025-12-13",
+      "hour": 9,
+      "name": "2025 JRAHSCU Annual - Great South West Walk (D1-2))",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/17712718862",
+      "year": 2025
+    },
+    {
+      "date": "2025-12-15",
+      "hour": 9,
+      "name": "2025 JRAHSCU Annual - Great South West Walk (D3-4)",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/17712749904",
       "year": 2025
     },
     {
@@ -314,10 +350,30 @@
       "type": "Ride",
       "url": "https://www.strava.com/activities/17738719115",
       "year": 2026
+    },
+    {
+      "date": "2026-03-16",
+      "hour": 15,
+      "name": "Afternoon Ride",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17739321895",
+      "year": 2026
     }
   ],
   "aggregates": {
     "2024": {
+      "Hike": {
+        "2024-12-14": {
+          "activity_ids": [
+            "17713284085"
+          ],
+          "count": 1,
+          "distance": 37956.6,
+          "elevation_gain": 309.0,
+          "moving_time": 6699.0
+        }
+      },
       "Run": {
         "2024-05-13": {
           "activity_ids": [
@@ -341,6 +397,15 @@
     },
     "2025": {
       "Hike": {
+        "2025-07-25": {
+          "activity_ids": [
+            "17713174969"
+          ],
+          "count": 1,
+          "distance": 34494.7,
+          "elevation_gain": 1227.7,
+          "moving_time": 23061.0
+        },
         "2025-09-20": {
           "activity_ids": [
             "15870879714"
@@ -349,6 +414,24 @@
           "distance": 6245.0,
           "elevation_gain": 249.1,
           "moving_time": 4636.0
+        },
+        "2025-12-13": {
+          "activity_ids": [
+            "17712718862"
+          ],
+          "count": 1,
+          "distance": 36288.6,
+          "elevation_gain": 618.7,
+          "moving_time": 48098.0
+        },
+        "2025-12-15": {
+          "activity_ids": [
+            "17712749904"
+          ],
+          "count": 1,
+          "distance": 34623.7,
+          "elevation_gain": 290.0,
+          "moving_time": 32329.0
         }
       },
       "Run": {
@@ -643,11 +726,20 @@
           "distance": 11900.0,
           "elevation_gain": 0.0,
           "moving_time": 1200.0
+        },
+        "2026-03-16": {
+          "activity_ids": [
+            "17739321895"
+          ],
+          "count": 1,
+          "distance": 12000.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1200.0
         }
       }
     }
   },
-  "generated_at": "2026-03-16T08:09:27.686221+00:00",
+  "generated_at": "2026-03-16T08:14:59.739747+00:00",
   "other_bucket": "OtherSports",
   "repo": "davetinaus/git-sweaty",
   "source": "strava",
@@ -681,6 +773,8 @@
   },
   "week_start": "monday",
   "years": [
+    2022,
+    2023,
     2024,
     2025,
     2026
