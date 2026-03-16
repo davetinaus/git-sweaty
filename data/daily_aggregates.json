@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-16T08:28:04.571811+00:00",
+  "generated_at": "2026-03-16T08:44:17.759783+00:00",
   "years": {
     "2024": {
       "Hike": {
@@ -14,30 +14,33 @@
         },
         "2024-12-15": {
           "activity_ids": [
-            "17739391437"
+            "17739391437",
+            "17739426778"
           ],
-          "count": 1,
-          "distance": 0.1,
+          "count": 2,
+          "distance": 0.2,
           "elevation_gain": 0.0,
-          "moving_time": 1.0
+          "moving_time": 2.0
         },
         "2024-12-16": {
           "activity_ids": [
-            "17739391473"
+            "17739391473",
+            "17739436026"
           ],
-          "count": 1,
-          "distance": 0.1,
+          "count": 2,
+          "distance": 0.2,
           "elevation_gain": 0.0,
-          "moving_time": 1.0
+          "moving_time": 2.0
         },
         "2024-12-17": {
           "activity_ids": [
-            "17739391571"
+            "17739391571",
+            "17739442971"
           ],
-          "count": 1,
-          "distance": 0.1,
+          "count": 2,
+          "distance": 0.2,
           "elevation_gain": 0.0,
-          "moving_time": 1.0
+          "moving_time": 2.0
         }
       },
       "Run": {
@@ -63,6 +66,24 @@
     },
     "2025": {
       "Hike": {
+        "2025-06-25": {
+          "activity_ids": [
+            "17739491371"
+          ],
+          "count": 1,
+          "distance": 34460.0,
+          "elevation_gain": 2136.4,
+          "moving_time": 30766.0
+        },
+        "2025-06-26": {
+          "activity_ids": [
+            "17739455477"
+          ],
+          "count": 1,
+          "distance": 0.1,
+          "elevation_gain": 0.0,
+          "moving_time": 1.0
+        },
         "2025-07-25": {
           "activity_ids": [
             "17713174969"
@@ -101,12 +122,13 @@
         },
         "2025-12-14": {
           "activity_ids": [
-            "17739368268"
+            "17739368268",
+            "17739461589"
           ],
-          "count": 1,
-          "distance": 0.1,
+          "count": 2,
+          "distance": 0.2,
           "elevation_gain": 0.0,
-          "moving_time": 1.0
+          "moving_time": 2.0
         },
         "2025-12-15": {
           "activity_ids": [
@@ -119,12 +141,13 @@
         },
         "2025-12-16": {
           "activity_ids": [
-            "17739371134"
+            "17739371134",
+            "17739466915"
           ],
-          "count": 1,
-          "distance": 0.1,
+          "count": 2,
+          "distance": 0.2,
           "elevation_gain": 0.0,
-          "moving_time": 1.0
+          "moving_time": 2.0
         }
       },
       "Run": {

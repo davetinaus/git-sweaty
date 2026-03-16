@@ -52,6 +52,19 @@
     "year": 2024
   },
   {
+    "date": "2024-12-15",
+    "distance": 0.1,
+    "elevation_gain": 0.0,
+    "id": "17739426778",
+    "moving_time": 1.0,
+    "name": "Placeholder - 2024 Annual",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2024-12-15T07:30:00Z",
+    "type": "Hike",
+    "year": 2024
+  },
+  {
     "date": "2024-12-16",
     "distance": 0.1,
     "elevation_gain": 0.0,
@@ -65,6 +78,19 @@
     "year": 2024
   },
   {
+    "date": "2024-12-16",
+    "distance": 0.1,
+    "elevation_gain": 0.0,
+    "id": "17739436026",
+    "moving_time": 1.0,
+    "name": "Placeholder - 2024 Annual",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2024-12-16T08:00:00Z",
+    "type": "Hike",
+    "year": 2024
+  },
+  {
     "date": "2024-12-17",
     "distance": 0.1,
     "elevation_gain": 0.0,
@@ -74,6 +100,19 @@
     "raw_activity_type": "Hike",
     "raw_type": "Hike",
     "start_date_local": "2024-12-17T18:20:00Z",
+    "type": "Hike",
+    "year": 2024
+  },
+  {
+    "date": "2024-12-17",
+    "distance": 0.1,
+    "elevation_gain": 0.0,
+    "id": "17739442971",
+    "moving_time": 1.0,
+    "name": "Placeholder - 2024 Annual",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2024-12-17T08:00:00Z",
     "type": "Hike",
     "year": 2024
   },
@@ -140,6 +179,32 @@
     "raw_type": "Run",
     "start_date_local": "2025-03-22T20:45:20Z",
     "type": "Run",
+    "year": 2025
+  },
+  {
+    "date": "2025-06-25",
+    "distance": 34460.0,
+    "elevation_gain": 2136.4,
+    "id": "17739491371",
+    "moving_time": 30766.0,
+    "name": "Alt Via 2 (partial)",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2025-06-25T09:30:00Z",
+    "type": "Hike",
+    "year": 2025
+  },
+  {
+    "date": "2025-06-26",
+    "distance": 0.1,
+    "elevation_gain": 0.0,
+    "id": "17739455477",
+    "moving_time": 1.0,
+    "name": "Placeholder - Alt Via 2 Day 2",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2025-06-26T06:20:00Z",
+    "type": "Hike",
     "year": 2025
   },
   {
@@ -273,6 +338,19 @@
     "year": 2025
   },
   {
+    "date": "2025-12-14",
+    "distance": 0.1,
+    "elevation_gain": 0.0,
+    "id": "17739461589",
+    "moving_time": 1.0,
+    "name": "Placeholder - 2025 Annual",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2025-12-14T08:30:00Z",
+    "type": "Hike",
+    "year": 2025
+  },
+  {
     "date": "2025-12-15",
     "distance": 34623.7,
     "elevation_gain": 290.0,
@@ -295,6 +373,19 @@
     "raw_activity_type": "Hike",
     "raw_type": "Hike",
     "start_date_local": "2025-12-16T18:10:00Z",
+    "type": "Hike",
+    "year": 2025
+  },
+  {
+    "date": "2025-12-16",
+    "distance": 0.1,
+    "elevation_gain": 0.0,
+    "id": "17739466915",
+    "moving_time": 1.0,
+    "name": "Placeholder - 2025 Annual",
+    "raw_activity_type": "Hike",
+    "raw_type": "Hike",
+    "start_date_local": "2025-12-16T06:30:00Z",
     "type": "Hike",
     "year": 2025
   },
