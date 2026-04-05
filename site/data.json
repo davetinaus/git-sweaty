@@ -424,6 +424,15 @@
       "year": 2026
     },
     {
+      "date": "2026-03-30",
+      "hour": 23,
+      "name": "Night Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17986055594",
+      "year": 2026
+    },
+    {
       "date": "2026-04-04",
       "hour": 17,
       "name": "Afternoon Activity",
@@ -731,6 +740,15 @@
           "distance": 73183.8,
           "elevation_gain": 239.6,
           "moving_time": 15707.0
+        },
+        "2026-03-30": {
+          "activity_ids": [
+            "17986055594"
+          ],
+          "count": 1,
+          "distance": 12287.6,
+          "elevation_gain": 8.9,
+          "moving_time": 3087.0
         }
       },
       "Run": {
@@ -883,7 +901,7 @@
       }
     }
   },
-  "generated_at": "2026-04-04T15:35:19.616277+00:00",
+  "generated_at": "2026-04-05T11:30:17.966631+00:00",
   "other_bucket": "OtherSports",
   "repo": "davetinaus/git-sweaty",
   "source": "strava",
