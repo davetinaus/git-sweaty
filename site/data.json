@@ -408,7 +408,7 @@
     {
       "date": "2026-03-18",
       "hour": 9,
-      "name": "Morning Hike",
+      "name": "Canyoning with CareFlight",
       "subtype": "Hike",
       "type": "Hike",
       "url": "https://www.strava.com/activities/17762847671",
@@ -421,6 +421,51 @@
       "subtype": "VirtualRide",
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/17809698597",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-23",
+      "hour": 11,
+      "name": "Lunch Hike",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/17986005883",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-24",
+      "hour": 19,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17986014449",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-25",
+      "hour": 19,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17986022122",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-25",
+      "hour": 23,
+      "name": "Night Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17986033455",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-28",
+      "hour": 11,
+      "name": "Lunch Hike",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/17986047537",
       "year": 2026
     },
     {
@@ -701,6 +746,24 @@
           "distance": 7161.4,
           "elevation_gain": 205.1,
           "moving_time": 8312.0
+        },
+        "2026-03-23": {
+          "activity_ids": [
+            "17986005883"
+          ],
+          "count": 1,
+          "distance": 11079.0,
+          "elevation_gain": 379.0,
+          "moving_time": 14761.0
+        },
+        "2026-03-28": {
+          "activity_ids": [
+            "17986047537"
+          ],
+          "count": 1,
+          "distance": 27707.2,
+          "elevation_gain": 556.3,
+          "moving_time": 26064.0
         }
       },
       "Ride": {
@@ -740,6 +803,25 @@
           "distance": 73183.8,
           "elevation_gain": 239.6,
           "moving_time": 15707.0
+        },
+        "2026-03-24": {
+          "activity_ids": [
+            "17986014449"
+          ],
+          "count": 1,
+          "distance": 10055.6,
+          "elevation_gain": 10.7,
+          "moving_time": 3547.0
+        },
+        "2026-03-25": {
+          "activity_ids": [
+            "17986022122",
+            "17986033455"
+          ],
+          "count": 2,
+          "distance": 29552.4,
+          "elevation_gain": 26.8,
+          "moving_time": 10843.0
         },
         "2026-03-30": {
           "activity_ids": [
@@ -901,7 +983,7 @@
       }
     }
   },
-  "generated_at": "2026-04-05T11:30:17.966631+00:00",
+  "generated_at": "2026-04-05T23:22:56.915637+00:00",
   "other_bucket": "OtherSports",
   "repo": "davetinaus/git-sweaty",
   "source": "strava",
