@@ -983,7 +983,7 @@
       }
     }
   },
-  "generated_at": "2026-04-05T23:22:56.915637+00:00",
+  "generated_at": "2026-04-05T23:27:07.519614+00:00",
   "other_bucket": "OtherSports",
   "repo": "davetinaus/git-sweaty",
   "source": "strava",
@@ -1017,7 +1017,6 @@
   },
   "week_start": "monday",
   "years": [
-    2024,
     2025,
     2026
   ]
