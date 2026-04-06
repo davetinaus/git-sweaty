@@ -217,6 +217,15 @@
       "year": 2025
     },
     {
+      "date": "2025-12-22",
+      "hour": 14,
+      "name": "Afternoon Ride",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17993117123",
+      "year": 2025
+    },
+    {
       "date": "2025-12-31",
       "hour": 20,
       "name": "Evening Run",
@@ -485,6 +494,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/17971403890",
       "year": 2026
+    },
+    {
+      "date": "2026-04-06",
+      "hour": 15,
+      "name": "Afternoon Activity",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17994624854",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -718,12 +736,13 @@
         },
         "2025-12-22": {
           "activity_ids": [
-            "16825448254"
+            "16825448254",
+            "17993117123"
           ],
-          "count": 1,
-          "distance": 5900.0,
+          "count": 2,
+          "distance": 11800.0,
           "elevation_gain": 0.0,
-          "moving_time": 600.0
+          "moving_time": 1200.0
         }
       }
     },
@@ -979,11 +998,20 @@
           "distance": 31000.0,
           "elevation_gain": 0.0,
           "moving_time": 3600.0
+        },
+        "2026-04-06": {
+          "activity_ids": [
+            "17994624854"
+          ],
+          "count": 1,
+          "distance": 21500.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2400.0
         }
       }
     }
   },
-  "generated_at": "2026-04-05T23:27:07.519614+00:00",
+  "generated_at": "2026-04-06T15:51:55.174812+00:00",
   "other_bucket": "OtherSports",
   "repo": "davetinaus/git-sweaty",
   "source": "strava",
@@ -1017,6 +1045,7 @@
   },
   "week_start": "monday",
   "years": [
+    2024,
     2025,
     2026
   ]

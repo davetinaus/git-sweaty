@@ -3,11 +3,11 @@
     "exclude_types": [],
     "include_all_types": true
   },
-  "after": 1735689600,
+  "after": 0,
   "completed": true,
-  "last_run_utc": "2026-04-05T23:27:07.498574+00:00",
-  "newest_seen_ts": 1775282649,
+  "last_run_utc": "2026-04-06T15:51:55.152552+00:00",
+  "newest_seen_ts": 1775455076,
   "next_before": null,
-  "oldest_seen_ts": 1736591105,
+  "oldest_seen_ts": 1715598400,
   "rate_limited": false
 }
