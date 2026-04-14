@@ -435,7 +435,7 @@
     {
       "date": "2026-03-23",
       "hour": 11,
-      "name": "Lunch Hike",
+      "name": "Great Wall Mutianyu",
       "subtype": "Hike",
       "type": "Hike",
       "url": "https://www.strava.com/activities/17986005883",
@@ -471,7 +471,7 @@
     {
       "date": "2026-03-28",
       "hour": 11,
-      "name": "Lunch Hike",
+      "name": "Huashan Mountain",
       "subtype": "Hike",
       "type": "Hike",
       "url": "https://www.strava.com/activities/17986047537",
@@ -1083,7 +1083,7 @@
       }
     }
   },
-  "generated_at": "2026-04-14T04:41:31.426119+00:00",
+  "generated_at": "2026-04-14T16:10:27.349951+00:00",
   "other_bucket": "OtherSports",
   "repo": "davetinaus/git-sweaty",
   "source": "strava",
