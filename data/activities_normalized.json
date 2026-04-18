@@ -791,5 +791,31 @@
     "start_date_local": "2026-04-17T10:06:28Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-04-18",
+    "distance": 5282.7,
+    "elevation_gain": 7.2,
+    "id": "18150449922",
+    "moving_time": 2001.0,
+    "name": "Morning Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-18T07:59:33Z",
+    "type": "Run",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-18",
+    "distance": 21000.0,
+    "elevation_gain": 0.0,
+    "id": "18153864094",
+    "moving_time": 2400.0,
+    "name": "Evening Activity",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-18T18:02:53Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
