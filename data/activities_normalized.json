@@ -843,5 +843,18 @@
     "start_date_local": "2026-04-21T18:50:00Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-23",
+    "distance": 70335.1,
+    "elevation_gain": 687.0,
+    "id": "18222084600",
+    "moving_time": 14627.0,
+    "name": "M7 Cycleway",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-04-23T08:35:20Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]

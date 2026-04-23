@@ -584,6 +584,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/18194830357",
       "year": 2026
+    },
+    {
+      "date": "2026-04-23",
+      "hour": 8,
+      "name": "M7 Cycleway",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18222084600",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -949,6 +958,15 @@
           "distance": 5560.5,
           "elevation_gain": 36.9,
           "moving_time": 3552.0
+        },
+        "2026-04-23": {
+          "activity_ids": [
+            "18222084600"
+          ],
+          "count": 1,
+          "distance": 70335.1,
+          "elevation_gain": 687.0,
+          "moving_time": 14627.0
         }
       },
       "Run": {
@@ -1173,7 +1191,7 @@
       }
     }
   },
-  "generated_at": "2026-04-22T16:10:09.048466+00:00",
+  "generated_at": "2026-04-23T16:44:39.460587+00:00",
   "other_bucket": "OtherSports",
   "repo": "davetinaus/git-sweaty",
   "source": "strava",
