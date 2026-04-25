@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24T16:05:37.250530+00:00",
+  "generated_at": "2026-04-25T15:41:24.419569+00:00",
   "years": {
     "2024": {
       "Hike": {
@@ -410,6 +410,15 @@
           "distance": 5282.7,
           "elevation_gain": 7.2,
           "moving_time": 2001.0
+        },
+        "2026-04-25": {
+          "activity_ids": [
+            "18244336401"
+          ],
+          "count": 1,
+          "distance": 5248.0,
+          "elevation_gain": 26.3,
+          "moving_time": 1943.0
         }
       },
       "VirtualRide": {
