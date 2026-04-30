@@ -895,5 +895,18 @@
     "start_date_local": "2026-04-29T16:50:40Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-04-30",
+    "distance": 11200.0,
+    "elevation_gain": 0.0,
+    "id": "18315600015",
+    "moving_time": 1200.0,
+    "name": "Afternoon Activity",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-04-30T17:09:35Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
