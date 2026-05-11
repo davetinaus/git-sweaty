@@ -934,5 +934,18 @@
     "start_date_local": "2026-05-05T18:31:45Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-05-11",
+    "distance": 10188.0,
+    "elevation_gain": 141.9,
+    "id": "18460188531",
+    "moving_time": 3129.0,
+    "name": "Blackheath Hanging Rock",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-11T11:06:05Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
