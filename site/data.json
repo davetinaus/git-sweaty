@@ -683,6 +683,15 @@
       "type": "VirtualRide",
       "url": "https://www.strava.com/activities/18487450805",
       "year": 2026
+    },
+    {
+      "date": "2026-05-21",
+      "hour": 8,
+      "name": "Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18586924508",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -1122,6 +1131,15 @@
           "distance": 5248.0,
           "elevation_gain": 26.3,
           "moving_time": 1943.0
+        },
+        "2026-05-21": {
+          "activity_ids": [
+            "18586924508"
+          ],
+          "count": 1,
+          "distance": 2208.0,
+          "elevation_gain": 2.1,
+          "moving_time": 1146.0
         }
       },
       "VirtualRide": {
@@ -1371,7 +1389,7 @@
       }
     }
   },
-  "generated_at": "2026-05-20T17:54:34.578591+00:00",
+  "generated_at": "2026-05-21T17:31:19.775780+00:00",
   "other_bucket": "OtherSports",
   "repo": "davetinaus/git-sweaty",
   "source": "strava",
