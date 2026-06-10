@@ -1194,5 +1194,31 @@
     "start_date_local": "2026-06-09T11:47:37Z",
     "type": "Hike",
     "year": 2026
+  },
+  {
+    "date": "2026-06-10",
+    "distance": 5663.0,
+    "elevation_gain": 24.2,
+    "id": "18860571315",
+    "moving_time": 2616.0,
+    "name": "Rabbit island",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-10T14:05:01Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-06-10",
+    "distance": 87486.0,
+    "elevation_gain": 609.5,
+    "id": "18862065828",
+    "moving_time": 18267.0,
+    "name": "Shimanami Kaido",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-10T08:43:43Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
