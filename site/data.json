@@ -1,1 +1,1702 @@
-
+{
+  "activities": [
+    {
+      "date": "2024-05-13",
+      "hour": 21,
+      "name": "Night Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/11399599928",
+      "year": 2024
+    },
+    {
+      "date": "2024-09-15",
+      "hour": 7,
+      "name": "Sydney marathon 2024",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/12412549672",
+      "year": 2024
+    },
+    {
+      "date": "2024-12-14",
+      "hour": 14,
+      "name": "2024 JRAHSCU Annual - Kosciuszko",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/17713284085",
+      "year": 2024
+    },
+    {
+      "date": "2024-12-15",
+      "hour": 7,
+      "name": "Placeholder - 2024 Annual",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/17739426778",
+      "year": 2024
+    },
+    {
+      "date": "2024-12-16",
+      "hour": 8,
+      "name": "Placeholder - 2024 Annual",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/17739436026",
+      "year": 2024
+    },
+    {
+      "date": "2024-12-17",
+      "hour": 8,
+      "name": "Placeholder - 2024 Annual",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/17739442971",
+      "year": 2024
+    },
+    {
+      "date": "2025-01-11",
+      "hour": 21,
+      "name": "Night Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/13323151321",
+      "year": 2025
+    },
+    {
+      "date": "2025-01-13",
+      "hour": 21,
+      "name": "Night Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/13341868746",
+      "year": 2025
+    },
+    {
+      "date": "2025-01-17",
+      "hour": 20,
+      "name": "Evening Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/13377213263",
+      "year": 2025
+    },
+    {
+      "date": "2025-03-21",
+      "hour": 22,
+      "name": "Night Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/13943943051",
+      "year": 2025
+    },
+    {
+      "date": "2025-03-22",
+      "hour": 20,
+      "name": "Evening Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/13951943848",
+      "year": 2025
+    },
+    {
+      "date": "2025-06-25",
+      "hour": 9,
+      "name": "Alt Via 2 (partial)",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/17739491371",
+      "year": 2025
+    },
+    {
+      "date": "2025-06-26",
+      "hour": 6,
+      "name": "Placeholder - Alt Via 2 Day 2",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/17739455477",
+      "year": 2025
+    },
+    {
+      "date": "2025-09-20",
+      "hour": 10,
+      "name": "Wentworths Falls Blue Mountains",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/15870879714",
+      "year": 2025
+    },
+    {
+      "date": "2025-09-21",
+      "hour": 20,
+      "name": "Evening Hike",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/15885904257",
+      "year": 2025
+    },
+    {
+      "date": "2025-09-22",
+      "hour": 11,
+      "name": "Night Activity",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/15897526231",
+      "year": 2025
+    },
+    {
+      "date": "2025-12-03",
+      "hour": 9,
+      "name": "Evening Activity",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/16636472115",
+      "year": 2025
+    },
+    {
+      "date": "2025-12-04",
+      "hour": 10,
+      "name": "Night Activity",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/16646532291",
+      "year": 2025
+    },
+    {
+      "date": "2025-12-09",
+      "hour": 11,
+      "name": "Night Activity",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/16692899925",
+      "year": 2025
+    },
+    {
+      "date": "2025-12-13",
+      "hour": 9,
+      "name": "2025 JRAHSCU Annual - Great South West Walk (D1-2))",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/17712718862",
+      "year": 2025
+    },
+    {
+      "date": "2025-12-14",
+      "hour": 8,
+      "name": "Placeholder - 2025 Annual",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/17739461589",
+      "year": 2025
+    },
+    {
+      "date": "2025-12-15",
+      "hour": 9,
+      "name": "2025 JRAHSCU Annual - Great South West Walk (D3-4)",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/17712749904",
+      "year": 2025
+    },
+    {
+      "date": "2025-12-16",
+      "hour": 6,
+      "name": "Placeholder - 2025 Annual",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/17739466915",
+      "year": 2025
+    },
+    {
+      "date": "2025-12-22",
+      "hour": 2,
+      "name": "Afternoon Activity",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/16825448254",
+      "year": 2025
+    },
+    {
+      "date": "2025-12-22",
+      "hour": 14,
+      "name": "Afternoon Ride",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17993117123",
+      "year": 2025
+    },
+    {
+      "date": "2025-12-31",
+      "hour": 20,
+      "name": "Evening Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/16891602875",
+      "year": 2025
+    },
+    {
+      "date": "2026-01-31",
+      "hour": 14,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17234443551",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-01",
+      "hour": 14,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17249289148",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-01",
+      "hour": 20,
+      "name": "Afternoon Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17270948287",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-03",
+      "hour": 8,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17267663747",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-04",
+      "hour": 7,
+      "name": "Morning ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17300967546",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-10",
+      "hour": 9,
+      "name": "Grand Canyon Blue Mountains",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/17345335839",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-19",
+      "hour": 18,
+      "name": "Evening Activity",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17526153959",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-20",
+      "hour": 16,
+      "name": "Afternoon Activity",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17526151170",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-23",
+      "hour": 21,
+      "name": "Night Activity",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17526168674",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-24",
+      "hour": 11,
+      "name": "Lunch Activity",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17526144066",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-26",
+      "hour": 15,
+      "name": "Afternoon Activity",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17526138254",
+      "year": 2026
+    },
+    {
+      "date": "2026-02-28",
+      "hour": 19,
+      "name": "Evening Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17549042182",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-07",
+      "hour": 10,
+      "name": "Morning Ride",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17630383782",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-09",
+      "hour": 20,
+      "name": "Evening Activity",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17678404894",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-12",
+      "hour": 17,
+      "name": "Afternoon Run 4.3",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17693416796",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-12",
+      "hour": 17,
+      "name": "Afternoon Activity",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17693426254",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-13",
+      "hour": 17,
+      "name": "Afternoon Activity",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17704664260",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-15",
+      "hour": 21,
+      "name": "Night Ride",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17729209124",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-16",
+      "hour": 15,
+      "name": "Afternoon Run 4.3",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17738415205",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-16",
+      "hour": 15,
+      "name": "Afternoon Ride",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17739321895",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-18",
+      "hour": 9,
+      "name": "Canyoning with CareFlight",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/17762847671",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-22",
+      "hour": 10,
+      "name": "Morning Activity",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17809698597",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-23",
+      "hour": 11,
+      "name": "Great Wall Mutianyu",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/17986005883",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-24",
+      "hour": 19,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17986014449",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-25",
+      "hour": 19,
+      "name": "Evening Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17986022122",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-25",
+      "hour": 23,
+      "name": "Night Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17986033455",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-28",
+      "hour": 11,
+      "name": "Huashan Mountain",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/17986047537",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-30",
+      "hour": 23,
+      "name": "Night Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/17986055594",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-04",
+      "hour": 17,
+      "name": "Afternoon Activity",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17971403890",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-06",
+      "hour": 15,
+      "name": "Afternoon Activity",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/17994624854",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-07",
+      "hour": 21,
+      "name": "Night Activity",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18011280501",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-09",
+      "hour": 20,
+      "name": "Apr 9, 2026 8:48 PM",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18039792028",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-12",
+      "hour": 17,
+      "name": "Afternoon Ride",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18075661841",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-13",
+      "hour": 19,
+      "name": "Evening Activity",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18088682257",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-17",
+      "hour": 10,
+      "name": "Morning Hike",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/18141674305",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-18",
+      "hour": 7,
+      "name": "Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18150449922",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-18",
+      "hour": 18,
+      "name": "Evening Activity",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18153864094",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-20",
+      "hour": 18,
+      "name": "Evening Activity",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18180928660",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-21",
+      "hour": 18,
+      "name": "Evening Ride",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18194830357",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-23",
+      "hour": 8,
+      "name": "M7 Cycleway",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18222084600",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-25",
+      "hour": 8,
+      "name": "Wentworth Common Parkrun",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18244336401",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-28",
+      "hour": 18,
+      "name": "Evening Activity",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18288821947",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-29",
+      "hour": 16,
+      "name": "Afternoon Activity",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18302132148",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-30",
+      "hour": 17,
+      "name": "Afternoon Activity",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18315600015",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-01",
+      "hour": 17,
+      "name": "Afternoon Activity",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18328197138",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-05",
+      "hour": 18,
+      "name": "Evening Activity",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18382086354",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-11",
+      "hour": 11,
+      "name": "Blackheath Hanging Rock",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18460188531",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-12",
+      "hour": 9,
+      "name": "Morning Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18471301796",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-12",
+      "hour": 17,
+      "name": "Afternoon Ride",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18473908555",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-13",
+      "hour": 17,
+      "name": "Afternoon Activity",
+      "subtype": "VirtualRide",
+      "type": "VirtualRide",
+      "url": "https://www.strava.com/activities/18487450805",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-21",
+      "hour": 8,
+      "name": "Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18586924508",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-22",
+      "hour": 6,
+      "name": "Morning Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18605302329",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-29",
+      "hour": 8,
+      "name": "Tone River D1 - Shibukawara -> Noda",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18701604827",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-30",
+      "hour": 8,
+      "name": "Tone River D2 - Noda -> Choshi",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18711064797",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-30",
+      "hour": 17,
+      "name": "Sawara to hotel",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18719993267",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-31",
+      "hour": 10,
+      "name": "Lake Kasumigaura Part 2",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18723637268",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-31",
+      "hour": 8,
+      "name": "Lake Kasumigaura Part 1",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18738939401",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-31",
+      "hour": 8,
+      "name": "Lake Kasumigaura",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18792377499",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-01",
+      "hour": 9,
+      "name": "Fushimi Inari-taisha, Japan",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/18737764334",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-02",
+      "hour": 13,
+      "name": "Afternoon Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18769905831",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-03",
+      "hour": 12,
+      "name": "Uji, Japan",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/18769906397",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-04",
+      "hour": 12,
+      "name": "Lunch Ride",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18780803817",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-04",
+      "hour": 9,
+      "name": "Lake Biwa - D1",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18792365584",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-05",
+      "hour": 8,
+      "name": "Lake Biwa - D2",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18792415117",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-07",
+      "hour": 18,
+      "name": "Evening Walk",
+      "subtype": "Walk",
+      "type": "Walk",
+      "url": "https://www.strava.com/activities/18827572474",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-09",
+      "hour": 11,
+      "name": "Mt Misen - Miyajima, Japan",
+      "subtype": "Hike",
+      "type": "Hike",
+      "url": "https://www.strava.com/activities/18853488988",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-10",
+      "hour": 14,
+      "name": "Rabbit island",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18860571315",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-10",
+      "hour": 8,
+      "name": "Shimanami Kaido",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18862065828",
+      "year": 2026
+    }
+  ],
+  "aggregates": {
+    "2024": {
+      "Hike": {
+        "2024-12-14": {
+          "activity_ids": [
+            "17713284085"
+          ],
+          "count": 1,
+          "distance": 37956.6,
+          "elevation_gain": 309.0,
+          "moving_time": 6699.0
+        },
+        "2024-12-15": {
+          "activity_ids": [
+            "17739426778"
+          ],
+          "count": 1,
+          "distance": 0.1,
+          "elevation_gain": 0.0,
+          "moving_time": 1.0
+        },
+        "2024-12-16": {
+          "activity_ids": [
+            "17739436026"
+          ],
+          "count": 1,
+          "distance": 0.1,
+          "elevation_gain": 0.0,
+          "moving_time": 1.0
+        },
+        "2024-12-17": {
+          "activity_ids": [
+            "17739442971"
+          ],
+          "count": 1,
+          "distance": 0.1,
+          "elevation_gain": 0.0,
+          "moving_time": 1.0
+        }
+      },
+      "Run": {
+        "2024-05-13": {
+          "activity_ids": [
+            "11399599928"
+          ],
+          "count": 1,
+          "distance": 2413.6,
+          "elevation_gain": 39.1,
+          "moving_time": 993.0
+        },
+        "2024-09-15": {
+          "activity_ids": [
+            "12412549672"
+          ],
+          "count": 1,
+          "distance": 44106.0,
+          "elevation_gain": 447.6,
+          "moving_time": 21081.0
+        }
+      }
+    },
+    "2025": {
+      "Hike": {
+        "2025-06-25": {
+          "activity_ids": [
+            "17739491371"
+          ],
+          "count": 1,
+          "distance": 34460.0,
+          "elevation_gain": 2136.4,
+          "moving_time": 30766.0
+        },
+        "2025-06-26": {
+          "activity_ids": [
+            "17739455477"
+          ],
+          "count": 1,
+          "distance": 0.1,
+          "elevation_gain": 0.0,
+          "moving_time": 1.0
+        },
+        "2025-09-20": {
+          "activity_ids": [
+            "15870879714"
+          ],
+          "count": 1,
+          "distance": 6245.0,
+          "elevation_gain": 249.1,
+          "moving_time": 4636.0
+        },
+        "2025-12-13": {
+          "activity_ids": [
+            "17712718862"
+          ],
+          "count": 1,
+          "distance": 36288.6,
+          "elevation_gain": 618.7,
+          "moving_time": 48098.0
+        },
+        "2025-12-14": {
+          "activity_ids": [
+            "17739461589"
+          ],
+          "count": 1,
+          "distance": 0.1,
+          "elevation_gain": 0.0,
+          "moving_time": 1.0
+        },
+        "2025-12-15": {
+          "activity_ids": [
+            "17712749904"
+          ],
+          "count": 1,
+          "distance": 34623.7,
+          "elevation_gain": 290.0,
+          "moving_time": 32329.0
+        },
+        "2025-12-16": {
+          "activity_ids": [
+            "17739466915"
+          ],
+          "count": 1,
+          "distance": 0.1,
+          "elevation_gain": 0.0,
+          "moving_time": 1.0
+        }
+      },
+      "Run": {
+        "2025-01-11": {
+          "activity_ids": [
+            "13323151321"
+          ],
+          "count": 1,
+          "distance": 2446.2,
+          "elevation_gain": 37.8,
+          "moving_time": 1111.0
+        },
+        "2025-01-13": {
+          "activity_ids": [
+            "13341868746"
+          ],
+          "count": 1,
+          "distance": 2443.0,
+          "elevation_gain": 39.8,
+          "moving_time": 933.0
+        },
+        "2025-01-17": {
+          "activity_ids": [
+            "13377213263"
+          ],
+          "count": 1,
+          "distance": 2415.8,
+          "elevation_gain": 39.8,
+          "moving_time": 893.0
+        },
+        "2025-03-21": {
+          "activity_ids": [
+            "13943943051"
+          ],
+          "count": 1,
+          "distance": 2412.8,
+          "elevation_gain": 38.9,
+          "moving_time": 929.0
+        },
+        "2025-03-22": {
+          "activity_ids": [
+            "13951943848"
+          ],
+          "count": 1,
+          "distance": 2405.4,
+          "elevation_gain": 39.9,
+          "moving_time": 1005.0
+        },
+        "2025-09-21": {
+          "activity_ids": [
+            "15885904257"
+          ],
+          "count": 1,
+          "distance": 1404.0,
+          "elevation_gain": 22.4,
+          "moving_time": 616.0
+        },
+        "2025-12-31": {
+          "activity_ids": [
+            "16891602875"
+          ],
+          "count": 1,
+          "distance": 2415.9,
+          "elevation_gain": 39.9,
+          "moving_time": 960.0
+        }
+      },
+      "VirtualRide": {
+        "2025-09-22": {
+          "activity_ids": [
+            "15897526231"
+          ],
+          "count": 1,
+          "distance": 12000.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1500.0
+        },
+        "2025-12-03": {
+          "activity_ids": [
+            "16636472115"
+          ],
+          "count": 1,
+          "distance": 5300.0,
+          "elevation_gain": 0.0,
+          "moving_time": 600.0
+        },
+        "2025-12-04": {
+          "activity_ids": [
+            "16646532291"
+          ],
+          "count": 1,
+          "distance": 5700.0,
+          "elevation_gain": 0.0,
+          "moving_time": 600.0
+        },
+        "2025-12-09": {
+          "activity_ids": [
+            "16692899925"
+          ],
+          "count": 1,
+          "distance": 5900.0,
+          "elevation_gain": 0.0,
+          "moving_time": 600.0
+        },
+        "2025-12-22": {
+          "activity_ids": [
+            "16825448254",
+            "17993117123"
+          ],
+          "count": 2,
+          "distance": 11800.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1200.0
+        }
+      }
+    },
+    "2026": {
+      "Hike": {
+        "2026-02-10": {
+          "activity_ids": [
+            "17345335839"
+          ],
+          "count": 1,
+          "distance": 6566.3,
+          "elevation_gain": 327.4,
+          "moving_time": 4518.0
+        },
+        "2026-03-18": {
+          "activity_ids": [
+            "17762847671"
+          ],
+          "count": 1,
+          "distance": 7161.4,
+          "elevation_gain": 205.1,
+          "moving_time": 8312.0
+        },
+        "2026-03-23": {
+          "activity_ids": [
+            "17986005883"
+          ],
+          "count": 1,
+          "distance": 11079.0,
+          "elevation_gain": 379.0,
+          "moving_time": 14761.0
+        },
+        "2026-03-28": {
+          "activity_ids": [
+            "17986047537"
+          ],
+          "count": 1,
+          "distance": 27707.2,
+          "elevation_gain": 556.3,
+          "moving_time": 26064.0
+        },
+        "2026-04-17": {
+          "activity_ids": [
+            "18141674305"
+          ],
+          "count": 1,
+          "distance": 10636.0,
+          "elevation_gain": 530.5,
+          "moving_time": 8023.0
+        },
+        "2026-06-01": {
+          "activity_ids": [
+            "18737764334"
+          ],
+          "count": 1,
+          "distance": 4521.0,
+          "elevation_gain": 188.0,
+          "moving_time": 3731.0
+        },
+        "2026-06-03": {
+          "activity_ids": [
+            "18769906397"
+          ],
+          "count": 1,
+          "distance": 2075.0,
+          "elevation_gain": 87.5,
+          "moving_time": 1354.0
+        },
+        "2026-06-09": {
+          "activity_ids": [
+            "18853488988"
+          ],
+          "count": 1,
+          "distance": 8275.0,
+          "elevation_gain": 642.2,
+          "moving_time": 7020.0
+        }
+      },
+      "Ride": {
+        "2026-01-31": {
+          "activity_ids": [
+            "17234443551"
+          ],
+          "count": 1,
+          "distance": 13438.3,
+          "elevation_gain": 47.7,
+          "moving_time": 4017.0
+        },
+        "2026-02-01": {
+          "activity_ids": [
+            "17249289148",
+            "17270948287"
+          ],
+          "count": 2,
+          "distance": 29705.0,
+          "elevation_gain": 115.7,
+          "moving_time": 8950.0
+        },
+        "2026-02-03": {
+          "activity_ids": [
+            "17267663747"
+          ],
+          "count": 1,
+          "distance": 36932.1,
+          "elevation_gain": 51.4,
+          "moving_time": 8644.0
+        },
+        "2026-02-04": {
+          "activity_ids": [
+            "17300967546"
+          ],
+          "count": 1,
+          "distance": 73183.8,
+          "elevation_gain": 239.6,
+          "moving_time": 15707.0
+        },
+        "2026-03-24": {
+          "activity_ids": [
+            "17986014449"
+          ],
+          "count": 1,
+          "distance": 10055.6,
+          "elevation_gain": 10.7,
+          "moving_time": 3547.0
+        },
+        "2026-03-25": {
+          "activity_ids": [
+            "17986022122",
+            "17986033455"
+          ],
+          "count": 2,
+          "distance": 29552.4,
+          "elevation_gain": 26.8,
+          "moving_time": 10843.0
+        },
+        "2026-03-30": {
+          "activity_ids": [
+            "17986055594"
+          ],
+          "count": 1,
+          "distance": 12287.6,
+          "elevation_gain": 8.9,
+          "moving_time": 3087.0
+        },
+        "2026-04-09": {
+          "activity_ids": [
+            "18039792028"
+          ],
+          "count": 1,
+          "distance": 5560.5,
+          "elevation_gain": 36.9,
+          "moving_time": 3552.0
+        },
+        "2026-04-23": {
+          "activity_ids": [
+            "18222084600"
+          ],
+          "count": 1,
+          "distance": 70335.1,
+          "elevation_gain": 687.0,
+          "moving_time": 14627.0
+        },
+        "2026-05-11": {
+          "activity_ids": [
+            "18460188531"
+          ],
+          "count": 1,
+          "distance": 10188.0,
+          "elevation_gain": 141.9,
+          "moving_time": 3129.0
+        },
+        "2026-05-12": {
+          "activity_ids": [
+            "18471301796"
+          ],
+          "count": 1,
+          "distance": 16621.1,
+          "elevation_gain": 127.0,
+          "moving_time": 4312.0
+        },
+        "2026-05-29": {
+          "activity_ids": [
+            "18701604827"
+          ],
+          "count": 1,
+          "distance": 128014.0,
+          "elevation_gain": 220.5,
+          "moving_time": 23258.0
+        },
+        "2026-05-30": {
+          "activity_ids": [
+            "18711064797",
+            "18719993267"
+          ],
+          "count": 2,
+          "distance": 104859.0,
+          "elevation_gain": 154.9,
+          "moving_time": 21714.0
+        },
+        "2026-05-31": {
+          "activity_ids": [
+            "18723637268",
+            "18738939401",
+            "18792377499"
+          ],
+          "count": 3,
+          "distance": 160536.90000000002,
+          "elevation_gain": 107.1,
+          "moving_time": 32012.0
+        },
+        "2026-06-04": {
+          "activity_ids": [
+            "18780803817",
+            "18792365584"
+          ],
+          "count": 2,
+          "distance": 180391.0,
+          "elevation_gain": 483.9,
+          "moving_time": 35876.0
+        },
+        "2026-06-05": {
+          "activity_ids": [
+            "18792415117"
+          ],
+          "count": 1,
+          "distance": 66172.0,
+          "elevation_gain": 162.6,
+          "moving_time": 13883.0
+        },
+        "2026-06-10": {
+          "activity_ids": [
+            "18860571315",
+            "18862065828"
+          ],
+          "count": 2,
+          "distance": 93149.0,
+          "elevation_gain": 633.7,
+          "moving_time": 20883.0
+        }
+      },
+      "Run": {
+        "2026-02-28": {
+          "activity_ids": [
+            "17549042182"
+          ],
+          "count": 1,
+          "distance": 3883.1,
+          "elevation_gain": 47.9,
+          "moving_time": 2070.0
+        },
+        "2026-03-12": {
+          "activity_ids": [
+            "17693416796"
+          ],
+          "count": 1,
+          "distance": 619.2,
+          "elevation_gain": 0.0,
+          "moving_time": 229.0
+        },
+        "2026-03-16": {
+          "activity_ids": [
+            "17738415205"
+          ],
+          "count": 1,
+          "distance": 462.0,
+          "elevation_gain": 0.0,
+          "moving_time": 191.0
+        },
+        "2026-04-18": {
+          "activity_ids": [
+            "18150449922"
+          ],
+          "count": 1,
+          "distance": 5282.7,
+          "elevation_gain": 7.2,
+          "moving_time": 2001.0
+        },
+        "2026-04-25": {
+          "activity_ids": [
+            "18244336401"
+          ],
+          "count": 1,
+          "distance": 5248.0,
+          "elevation_gain": 26.3,
+          "moving_time": 1943.0
+        },
+        "2026-05-21": {
+          "activity_ids": [
+            "18586924508"
+          ],
+          "count": 1,
+          "distance": 2208.0,
+          "elevation_gain": 2.1,
+          "moving_time": 1146.0
+        },
+        "2026-05-22": {
+          "activity_ids": [
+            "18605302329"
+          ],
+          "count": 1,
+          "distance": 2127.0,
+          "elevation_gain": 2.3,
+          "moving_time": 1235.0
+        }
+      },
+      "VirtualRide": {
+        "2026-02-19": {
+          "activity_ids": [
+            "17526153959"
+          ],
+          "count": 1,
+          "distance": 11000.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1200.0
+        },
+        "2026-02-20": {
+          "activity_ids": [
+            "17526151170"
+          ],
+          "count": 1,
+          "distance": 11100.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1200.0
+        },
+        "2026-02-23": {
+          "activity_ids": [
+            "17526168674"
+          ],
+          "count": 1,
+          "distance": 11200.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1200.0
+        },
+        "2026-02-24": {
+          "activity_ids": [
+            "17526144066"
+          ],
+          "count": 1,
+          "distance": 11400.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1200.0
+        },
+        "2026-02-26": {
+          "activity_ids": [
+            "17526138254"
+          ],
+          "count": 1,
+          "distance": 11600.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1200.0
+        },
+        "2026-03-07": {
+          "activity_ids": [
+            "17630383782"
+          ],
+          "count": 1,
+          "distance": 11400.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1200.0
+        },
+        "2026-03-09": {
+          "activity_ids": [
+            "17678404894"
+          ],
+          "count": 1,
+          "distance": 11200.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1200.0
+        },
+        "2026-03-12": {
+          "activity_ids": [
+            "17693426254"
+          ],
+          "count": 1,
+          "distance": 11600.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1200.0
+        },
+        "2026-03-13": {
+          "activity_ids": [
+            "17704664260"
+          ],
+          "count": 1,
+          "distance": 11500.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1200.0
+        },
+        "2026-03-15": {
+          "activity_ids": [
+            "17729209124"
+          ],
+          "count": 1,
+          "distance": 11900.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1200.0
+        },
+        "2026-03-16": {
+          "activity_ids": [
+            "17739321895"
+          ],
+          "count": 1,
+          "distance": 12000.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1200.0
+        },
+        "2026-03-22": {
+          "activity_ids": [
+            "17809698597"
+          ],
+          "count": 1,
+          "distance": 30300.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3600.0
+        },
+        "2026-04-04": {
+          "activity_ids": [
+            "17971403890"
+          ],
+          "count": 1,
+          "distance": 31000.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3600.0
+        },
+        "2026-04-06": {
+          "activity_ids": [
+            "17994624854"
+          ],
+          "count": 1,
+          "distance": 21500.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2400.0
+        },
+        "2026-04-07": {
+          "activity_ids": [
+            "18011280501"
+          ],
+          "count": 1,
+          "distance": 21600.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2400.0
+        },
+        "2026-04-12": {
+          "activity_ids": [
+            "18075661841"
+          ],
+          "count": 1,
+          "distance": 21000.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2400.0
+        },
+        "2026-04-13": {
+          "activity_ids": [
+            "18088682257"
+          ],
+          "count": 1,
+          "distance": 21800.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2400.0
+        },
+        "2026-04-18": {
+          "activity_ids": [
+            "18153864094"
+          ],
+          "count": 1,
+          "distance": 21000.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2400.0
+        },
+        "2026-04-20": {
+          "activity_ids": [
+            "18180928660"
+          ],
+          "count": 1,
+          "distance": 10100.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1200.0
+        },
+        "2026-04-21": {
+          "activity_ids": [
+            "18194830357"
+          ],
+          "count": 1,
+          "distance": 10500.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1200.0
+        },
+        "2026-04-28": {
+          "activity_ids": [
+            "18288821947"
+          ],
+          "count": 1,
+          "distance": 10900.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1200.0
+        },
+        "2026-04-29": {
+          "activity_ids": [
+            "18302132148"
+          ],
+          "count": 1,
+          "distance": 21800.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2400.0
+        },
+        "2026-04-30": {
+          "activity_ids": [
+            "18315600015"
+          ],
+          "count": 1,
+          "distance": 11200.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1200.0
+        },
+        "2026-05-01": {
+          "activity_ids": [
+            "18328197138"
+          ],
+          "count": 1,
+          "distance": 21300.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2400.0
+        },
+        "2026-05-05": {
+          "activity_ids": [
+            "18382086354"
+          ],
+          "count": 1,
+          "distance": 32400.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3600.0
+        },
+        "2026-05-12": {
+          "activity_ids": [
+            "18473908555"
+          ],
+          "count": 1,
+          "distance": 21700.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2400.0
+        },
+        "2026-05-13": {
+          "activity_ids": [
+            "18487450805"
+          ],
+          "count": 1,
+          "distance": 21600.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2400.0
+        }
+      },
+      "Walk": {
+        "2026-06-02": {
+          "activity_ids": [
+            "18769905831"
+          ],
+          "count": 1,
+          "distance": 4568.1,
+          "elevation_gain": 0.0,
+          "moving_time": 3647.0
+        },
+        "2026-06-07": {
+          "activity_ids": [
+            "18827572474"
+          ],
+          "count": 1,
+          "distance": 1049.5,
+          "elevation_gain": 0.0,
+          "moving_time": 760.0
+        }
+      }
+    }
+  },
+  "generated_at": "2026-06-11T06:10:33.445746+00:00",
+  "other_bucket": "OtherSports",
+  "repo": "davetinaus/git-sweaty",
+  "source": "strava",
+  "type_meta": {
+    "Hike": {
+      "accent": "#d6ff6b",
+      "label": "Hike"
+    },
+    "Ride": {
+      "accent": "#05ffa1",
+      "label": "Ride"
+    },
+    "Run": {
+      "accent": "#01cdfe",
+      "label": "Run"
+    },
+    "VirtualRide": {
+      "accent": "#fee440",
+      "label": "Virtual Ride"
+    },
+    "Walk": {
+      "accent": "#d6ff6b",
+      "label": "Walk"
+    }
+  },
+  "types": [
+    "Hike",
+    "Ride",
+    "Run",
+    "VirtualRide",
+    "Walk"
+  ],
+  "units": {
+    "distance": "km",
+    "elevation": "m"
+  },
+  "week_start": "monday",
+  "years": [
+    2025,
+    2026
+  ]
+}
