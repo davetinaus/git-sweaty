@@ -120,7 +120,7 @@
     {
       "date": "2025-09-20",
       "hour": 10,
-      "name": "Morning Hike",
+      "name": "Wentworths Falls Blue Mountains",
       "subtype": "Hike",
       "type": "Hike",
       "url": "https://www.strava.com/activities/15870879714",
@@ -282,7 +282,7 @@
     {
       "date": "2026-02-10",
       "hour": 9,
-      "name": "Morning Hike",
+      "name": "Grand Canyon Blue Mountains",
       "subtype": "Hike",
       "type": "Hike",
       "url": "https://www.strava.com/activities/17345335839",
@@ -822,7 +822,7 @@
     {
       "date": "2026-06-09",
       "hour": 11,
-      "name": "Lunch Hike",
+      "name": "Mt Misen - Miyajima, Japan",
       "subtype": "Hike",
       "type": "Hike",
       "url": "https://www.strava.com/activities/18853488988",
@@ -1657,7 +1657,7 @@
       }
     }
   },
-  "generated_at": "2026-06-10T17:58:55.732263+00:00",
+  "generated_at": "2026-06-11T06:07:16.776596+00:00",
   "other_bucket": "OtherSports",
   "repo": "davetinaus/git-sweaty",
   "source": "strava",
@@ -1696,7 +1696,6 @@
   },
   "week_start": "monday",
   "years": [
-    2024,
     2025,
     2026
   ]
