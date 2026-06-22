@@ -1168,5 +1168,18 @@
     "start_date_local": "2026-06-21T17:57:33Z",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-06-22",
+    "distance": 27165.0,
+    "elevation_gain": 383.8,
+    "id": "19019855655",
+    "moving_time": 6456.0,
+    "name": "Blue Mountains - Woodford to Glenbrook",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-22T13:02:28Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
