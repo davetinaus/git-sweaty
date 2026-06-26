@@ -1194,5 +1194,18 @@
     "start_date_local": "2026-06-24T09:37:51Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-26",
+    "distance": 13391.0,
+    "elevation_gain": 225.3,
+    "id": "19070038701",
+    "moving_time": 3465.0,
+    "name": "Blue Mountains - Faulconbridge Point",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-06-26T11:14:55Z",
+    "type": "Ride",
+    "year": 2026
   }
 ]
