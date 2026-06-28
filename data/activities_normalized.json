@@ -1207,5 +1207,18 @@
     "start_date_local": "2026-06-26T11:14:55Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-28",
+    "distance": 8140.7,
+    "elevation_gain": 73.8,
+    "id": "19092352453",
+    "moving_time": 1263.0,
+    "name": "MyWhoosh - Ardennes",
+    "raw_activity_type": "VirtualRide",
+    "raw_type": "VirtualRide",
+    "start_date_local": "2026-06-28T11:00:26Z",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
