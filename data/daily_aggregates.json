@@ -1,842 +1,576 @@
 {
-  "generated_at": "2026-06-30T17:07:23.231271+00:00",
+  "generated_at": "2026-07-14T06:49:00.493306+00:00",
   "years": {
     "2024": {
-      "Hike": {
-        "2024-12-14": {
-          "activity_ids": [
-            "17713284085"
-          ],
-          "count": 1,
-          "distance": 37956.6,
-          "elevation_gain": 309.0,
-          "moving_time": 6699.0
-        },
-        "2024-12-15": {
-          "activity_ids": [
-            "17739426778"
-          ],
-          "count": 1,
-          "distance": 0.1,
-          "elevation_gain": 0.0,
-          "moving_time": 1.0
-        },
-        "2024-12-16": {
-          "activity_ids": [
-            "17739436026"
-          ],
-          "count": 1,
-          "distance": 0.1,
-          "elevation_gain": 0.0,
-          "moving_time": 1.0
-        },
-        "2024-12-17": {
-          "activity_ids": [
-            "17739442971"
-          ],
-          "count": 1,
-          "distance": 0.1,
-          "elevation_gain": 0.0,
-          "moving_time": 1.0
-        }
-      },
-      "Run": {
+      "Workout": {
         "2024-05-13": {
           "activity_ids": [
-            "11399599928"
+            "23590311463"
           ],
           "count": 1,
-          "distance": 2413.6,
-          "elevation_gain": 39.1,
-          "moving_time": 993.0
+          "distance": 2431.226728776171,
+          "elevation_gain": 41.90411376953125,
+          "moving_time": 1016.0
         },
         "2024-09-15": {
           "activity_ids": [
-            "12412549672"
+            "23590368237"
           ],
           "count": 1,
-          "distance": 44106.0,
-          "elevation_gain": 447.6,
-          "moving_time": 21081.0
+          "distance": 44343.91818989473,
+          "elevation_gain": 1245.3923780545592,
+          "moving_time": 21626.0
+        },
+        "2024-12-14": {
+          "activity_ids": [
+            "23590311596"
+          ],
+          "count": 1,
+          "distance": 37926.848723584975,
+          "elevation_gain": 647.1612548828125,
+          "moving_time": 67015.21399999996
         }
       }
     },
     "2025": {
-      "Hike": {
-        "2025-06-25": {
-          "activity_ids": [
-            "17739491371"
-          ],
-          "count": 1,
-          "distance": 34460.0,
-          "elevation_gain": 2136.4,
-          "moving_time": 30766.0
-        },
-        "2025-06-26": {
-          "activity_ids": [
-            "17739455477"
-          ],
-          "count": 1,
-          "distance": 0.1,
-          "elevation_gain": 0.0,
-          "moving_time": 1.0
-        },
-        "2025-09-20": {
-          "activity_ids": [
-            "15870879714"
-          ],
-          "count": 1,
-          "distance": 6245.0,
-          "elevation_gain": 249.1,
-          "moving_time": 4636.0
-        },
-        "2025-12-13": {
-          "activity_ids": [
-            "17712718862"
-          ],
-          "count": 1,
-          "distance": 36288.6,
-          "elevation_gain": 618.7,
-          "moving_time": 48098.0
-        },
-        "2025-12-14": {
-          "activity_ids": [
-            "17739461589"
-          ],
-          "count": 1,
-          "distance": 0.1,
-          "elevation_gain": 0.0,
-          "moving_time": 1.0
-        },
-        "2025-12-15": {
-          "activity_ids": [
-            "17712749904"
-          ],
-          "count": 1,
-          "distance": 34623.7,
-          "elevation_gain": 290.0,
-          "moving_time": 32329.0
-        },
-        "2025-12-16": {
-          "activity_ids": [
-            "17739466915"
-          ],
-          "count": 1,
-          "distance": 0.1,
-          "elevation_gain": 0.0,
-          "moving_time": 1.0
-        }
-      },
-      "Run": {
+      "Workout": {
         "2025-01-11": {
           "activity_ids": [
-            "13323151321"
+            "23590312029"
           ],
           "count": 1,
-          "distance": 2446.2,
-          "elevation_gain": 37.8,
-          "moving_time": 1111.0
+          "distance": 2467.944429268782,
+          "elevation_gain": 43.91965866088867,
+          "moving_time": 1157.0
         },
         "2025-01-13": {
           "activity_ids": [
-            "13341868746"
+            "23590311507"
           ],
           "count": 1,
-          "distance": 2443.0,
-          "elevation_gain": 39.8,
-          "moving_time": 933.0
+          "distance": 2457.3241565538524,
+          "elevation_gain": 40.5923957824707,
+          "moving_time": 957.0
         },
         "2025-01-17": {
           "activity_ids": [
-            "13377213263"
+            "23590311678"
           ],
           "count": 1,
-          "distance": 2415.8,
-          "elevation_gain": 39.8,
-          "moving_time": 893.0
+          "distance": 2443.9062659440665,
+          "elevation_gain": 41.24813461303711,
+          "moving_time": 940.0
         },
         "2025-03-21": {
           "activity_ids": [
-            "13943943051"
+            "23590311666"
           ],
           "count": 1,
-          "distance": 2412.8,
-          "elevation_gain": 38.9,
-          "moving_time": 929.0
+          "distance": 2434.7437378465943,
+          "elevation_gain": 43.80076599121094,
+          "moving_time": 955.0
         },
         "2025-03-22": {
           "activity_ids": [
-            "13951943848"
+            "23590311705"
           ],
           "count": 1,
-          "distance": 2405.4,
-          "elevation_gain": 39.9,
-          "moving_time": 1005.0
+          "distance": 2421.7281567503173,
+          "elevation_gain": 40.687713623046875,
+          "moving_time": 1021.0
+        },
+        "2025-06-25": {
+          "activity_ids": [
+            "23590334578"
+          ],
+          "count": 1,
+          "distance": 34460.0,
+          "elevation_gain": 2168.122314453125,
+          "moving_time": 32397.0
+        },
+        "2025-09-20": {
+          "activity_ids": [
+            "23590359002"
+          ],
+          "count": 1,
+          "distance": 6611.517615499377,
+          "elevation_gain": 580.225341796875,
+          "moving_time": 4613.0
         },
         "2025-09-21": {
           "activity_ids": [
-            "15885904257"
+            "23590312017"
           ],
           "count": 1,
-          "distance": 1404.0,
-          "elevation_gain": 22.4,
+          "distance": 1412.9608206984954,
+          "elevation_gain": 18.346050262451172,
           "moving_time": 616.0
+        },
+        "2025-10-21": {
+          "activity_ids": [
+            "23590359398"
+          ],
+          "count": 1,
+          "distance": 12710.0,
+          "elevation_gain": 160.66403198242188,
+          "moving_time": 5068.0
+        },
+        "2025-12-13": {
+          "activity_ids": [
+            "23590313748"
+          ],
+          "count": 1,
+          "distance": 14520.457799536385,
+          "elevation_gain": 291.32586145401,
+          "moving_time": 28799.44
+        },
+        "2025-12-14": {
+          "activity_ids": [
+            "23590313749"
+          ],
+          "count": 1,
+          "distance": 21752.880103389023,
+          "elevation_gain": 252.74731826782227,
+          "moving_time": 28782.60700000003
+        },
+        "2025-12-15": {
+          "activity_ids": [
+            "23590311928"
+          ],
+          "count": 1,
+          "distance": 14671.285634007956,
+          "elevation_gain": 77.71573257446289,
+          "moving_time": 19767.380000000023
+        },
+        "2025-12-16": {
+          "activity_ids": [
+            "23590311929"
+          ],
+          "count": 1,
+          "distance": 19935.10000941271,
+          "elevation_gain": 102.63777542114258,
+          "moving_time": 19797.560000000016
         },
         "2025-12-31": {
           "activity_ids": [
-            "16891602875"
+            "23590311251"
           ],
           "count": 1,
-          "distance": 2415.9,
-          "elevation_gain": 39.9,
-          "moving_time": 960.0
-        }
-      },
-      "VirtualRide": {
-        "2025-09-22": {
-          "activity_ids": [
-            "15897526231"
-          ],
-          "count": 1,
-          "distance": 12000.0,
-          "elevation_gain": 0.0,
-          "moving_time": 1500.0
-        },
-        "2025-12-03": {
-          "activity_ids": [
-            "16636472115"
-          ],
-          "count": 1,
-          "distance": 5300.0,
-          "elevation_gain": 0.0,
-          "moving_time": 600.0
-        },
-        "2025-12-04": {
-          "activity_ids": [
-            "16646532291"
-          ],
-          "count": 1,
-          "distance": 5700.0,
-          "elevation_gain": 0.0,
-          "moving_time": 600.0
-        },
-        "2025-12-09": {
-          "activity_ids": [
-            "16692899925"
-          ],
-          "count": 1,
-          "distance": 5900.0,
-          "elevation_gain": 0.0,
-          "moving_time": 600.0
-        },
-        "2025-12-22": {
-          "activity_ids": [
-            "17993117123"
-          ],
-          "count": 1,
-          "distance": 5900.0,
-          "elevation_gain": 0.0,
-          "moving_time": 600.0
+          "distance": 2428.3925581338644,
+          "elevation_gain": 43.01875686645508,
+          "moving_time": 969.0
         }
       }
     },
     "2026": {
       "Hike": {
-        "2026-02-10": {
-          "activity_ids": [
-            "17345335839"
-          ],
-          "count": 1,
-          "distance": 6566.3,
-          "elevation_gain": 327.4,
-          "moving_time": 4518.0
-        },
         "2026-03-18": {
           "activity_ids": [
-            "17762847671"
+            "23590312891"
           ],
           "count": 1,
-          "distance": 7161.4,
-          "elevation_gain": 205.1,
-          "moving_time": 8312.0
-        },
-        "2026-03-23": {
-          "activity_ids": [
-            "17986005883"
-          ],
-          "count": 1,
-          "distance": 11079.0,
-          "elevation_gain": 379.0,
-          "moving_time": 14761.0
-        },
-        "2026-03-28": {
-          "activity_ids": [
-            "17986047537"
-          ],
-          "count": 1,
-          "distance": 27707.2,
-          "elevation_gain": 556.3,
-          "moving_time": 26064.0
-        },
-        "2026-04-17": {
-          "activity_ids": [
-            "18141674305"
-          ],
-          "count": 1,
-          "distance": 10636.0,
-          "elevation_gain": 530.5,
-          "moving_time": 8023.0
+          "distance": 12016.0,
+          "elevation_gain": 329.07769775390625,
+          "moving_time": 6333.0
         },
         "2026-06-01": {
           "activity_ids": [
-            "18737764334"
+            "23590311467"
           ],
           "count": 1,
           "distance": 4521.0,
-          "elevation_gain": 188.0,
-          "moving_time": 3731.0
+          "elevation_gain": 195.64276123046875,
+          "moving_time": 3251.0
         },
         "2026-06-03": {
           "activity_ids": [
-            "18769906397"
+            "23590310904"
           ],
           "count": 1,
           "distance": 2075.0,
-          "elevation_gain": 87.5,
-          "moving_time": 1354.0
+          "elevation_gain": 140.29263305664062,
+          "moving_time": 1462.0
         },
         "2026-06-09": {
           "activity_ids": [
-            "18853488988"
+            "23590311701"
           ],
           "count": 1,
           "distance": 8275.0,
-          "elevation_gain": 642.2,
-          "moving_time": 7020.0
+          "elevation_gain": 685.45920753479,
+          "moving_time": 8429.0
+        },
+        "2026-07-11": {
+          "activity_ids": [
+            "23590311803"
+          ],
+          "count": 1,
+          "distance": 6893.0,
+          "elevation_gain": 216.86918449401855,
+          "moving_time": 3131.0
         }
       },
       "Ride": {
-        "2026-01-31": {
-          "activity_ids": [
-            "17234443551"
-          ],
-          "count": 1,
-          "distance": 13438.3,
-          "elevation_gain": 47.7,
-          "moving_time": 4017.0
-        },
-        "2026-02-01": {
-          "activity_ids": [
-            "17249289148",
-            "17270948287"
-          ],
-          "count": 2,
-          "distance": 29705.0,
-          "elevation_gain": 115.7,
-          "moving_time": 8950.0
-        },
-        "2026-02-03": {
-          "activity_ids": [
-            "17267663747"
-          ],
-          "count": 1,
-          "distance": 36932.1,
-          "elevation_gain": 51.4,
-          "moving_time": 8644.0
-        },
-        "2026-02-04": {
-          "activity_ids": [
-            "17300967546"
-          ],
-          "count": 1,
-          "distance": 73183.8,
-          "elevation_gain": 239.6,
-          "moving_time": 15707.0
-        },
-        "2026-03-24": {
-          "activity_ids": [
-            "17986014449"
-          ],
-          "count": 1,
-          "distance": 10055.6,
-          "elevation_gain": 10.7,
-          "moving_time": 3547.0
-        },
-        "2026-03-25": {
-          "activity_ids": [
-            "17986022122",
-            "17986033455"
-          ],
-          "count": 2,
-          "distance": 29552.4,
-          "elevation_gain": 26.8,
-          "moving_time": 10843.0
-        },
-        "2026-03-30": {
-          "activity_ids": [
-            "17986055594"
-          ],
-          "count": 1,
-          "distance": 12287.6,
-          "elevation_gain": 8.9,
-          "moving_time": 3087.0
-        },
         "2026-04-09": {
           "activity_ids": [
-            "18039792028"
+            "23590312016"
           ],
           "count": 1,
-          "distance": 5560.5,
-          "elevation_gain": 36.9,
-          "moving_time": 3552.0
-        },
-        "2026-04-23": {
-          "activity_ids": [
-            "18222084600"
-          ],
-          "count": 1,
-          "distance": 70335.1,
-          "elevation_gain": 687.0,
-          "moving_time": 14627.0
+          "distance": 5560.509765625,
+          "elevation_gain": 50.03011703491211,
+          "moving_time": 1394.0
         },
         "2026-05-11": {
           "activity_ids": [
-            "18460188531"
+            "23590311464"
           ],
           "count": 1,
           "distance": 10188.0,
-          "elevation_gain": 141.9,
-          "moving_time": 3129.0
-        },
-        "2026-05-12": {
-          "activity_ids": [
-            "18471301796"
-          ],
-          "count": 1,
-          "distance": 16621.1,
-          "elevation_gain": 127.0,
-          "moving_time": 4312.0
+          "elevation_gain": 159.12664794921875,
+          "moving_time": 3136.0
         },
         "2026-05-29": {
           "activity_ids": [
-            "18701604827"
+            "23590314383"
           ],
           "count": 1,
           "distance": 128014.0,
-          "elevation_gain": 220.5,
-          "moving_time": 23258.0
+          "elevation_gain": 733.1032576560974,
+          "moving_time": 24962.0
         },
         "2026-05-30": {
           "activity_ids": [
-            "18711064797",
-            "18719993267"
+            "23590310740",
+            "23590313719"
           ],
           "count": 2,
           "distance": 104859.0,
-          "elevation_gain": 154.9,
-          "moving_time": 21714.0
-        },
-        "2026-05-31": {
-          "activity_ids": [
-            "18792377499"
-          ],
-          "count": 1,
-          "distance": 80458.3,
-          "elevation_gain": 53.3,
-          "moving_time": 16000.0
-        },
-        "2026-06-04": {
-          "activity_ids": [
-            "18792365584"
-          ],
-          "count": 1,
-          "distance": 123839.0,
-          "elevation_gain": 311.8,
-          "moving_time": 24903.0
+          "elevation_gain": 605.4435619823635,
+          "moving_time": 21607.0
         },
         "2026-06-05": {
           "activity_ids": [
-            "18792415117"
+            "23590312590"
           ],
           "count": 1,
           "distance": 66172.0,
-          "elevation_gain": 162.6,
+          "elevation_gain": 315.51702880859375,
           "moving_time": 13883.0
         },
         "2026-06-10": {
           "activity_ids": [
-            "18860571315",
-            "18862065828"
+            "23590314184"
           ],
-          "count": 2,
-          "distance": 93149.0,
-          "elevation_gain": 633.7,
-          "moving_time": 20883.0
+          "count": 1,
+          "distance": 87486.0,
+          "elevation_gain": 1630.8564853146672,
+          "moving_time": 18213.0
         },
         "2026-06-22": {
           "activity_ids": [
-            "19019855655"
+            "23590311893"
           ],
           "count": 1,
           "distance": 27165.0,
-          "elevation_gain": 383.8,
-          "moving_time": 6456.0
+          "elevation_gain": 408.34069061279297,
+          "moving_time": 6402.0
         },
         "2026-06-24": {
           "activity_ids": [
-            "19047556442"
+            "23590314106"
           ],
           "count": 1,
           "distance": 83783.0,
-          "elevation_gain": 297.2,
-          "moving_time": 16574.0
+          "elevation_gain": 601.4377136230469,
+          "moving_time": 16573.0
         },
         "2026-06-26": {
           "activity_ids": [
-            "19070038701"
+            "23590311587"
           ],
           "count": 1,
           "distance": 13391.0,
-          "elevation_gain": 225.3,
-          "moving_time": 3465.0
+          "elevation_gain": 265.9476013183594,
+          "moving_time": 3428.0
+        },
+        "2026-07-03": {
+          "activity_ids": [
+            "23590311428"
+          ],
+          "count": 1,
+          "distance": 16487.0,
+          "elevation_gain": 241.5740509033203,
+          "moving_time": 3435.0
+        },
+        "2026-07-04": {
+          "activity_ids": [
+            "23590311524"
+          ],
+          "count": 1,
+          "distance": 9683.0,
+          "elevation_gain": 130.40213012695312,
+          "moving_time": 2855.0
+        },
+        "2026-07-05": {
+          "activity_ids": [
+            "23590311752"
+          ],
+          "count": 1,
+          "distance": 14083.0,
+          "elevation_gain": 218.84268188476562,
+          "moving_time": 5606.0
+        },
+        "2026-07-14": {
+          "activity_ids": [
+            "23590310918"
+          ],
+          "count": 1,
+          "distance": 5305.0,
+          "elevation_gain": 198.88238525390625,
+          "moving_time": 1917.0
         }
       },
       "Run": {
-        "2026-02-28": {
-          "activity_ids": [
-            "17549042182"
-          ],
-          "count": 1,
-          "distance": 3883.1,
-          "elevation_gain": 47.9,
-          "moving_time": 2070.0
-        },
-        "2026-03-12": {
-          "activity_ids": [
-            "17693416796"
-          ],
-          "count": 1,
-          "distance": 619.2,
-          "elevation_gain": 0.0,
-          "moving_time": 229.0
-        },
         "2026-03-16": {
           "activity_ids": [
-            "17738415205"
+            "23590310665"
           ],
           "count": 1,
           "distance": 462.0,
           "elevation_gain": 0.0,
           "moving_time": 191.0
         },
-        "2026-04-18": {
-          "activity_ids": [
-            "18150449922"
-          ],
-          "count": 1,
-          "distance": 5282.7,
-          "elevation_gain": 7.2,
-          "moving_time": 2001.0
-        },
-        "2026-04-25": {
-          "activity_ids": [
-            "18244336401"
-          ],
-          "count": 1,
-          "distance": 5248.0,
-          "elevation_gain": 26.3,
-          "moving_time": 1943.0
-        },
         "2026-05-21": {
           "activity_ids": [
-            "18586924508"
+            "23590310991"
           ],
           "count": 1,
           "distance": 2208.0,
-          "elevation_gain": 2.1,
-          "moving_time": 1146.0
+          "elevation_gain": 22.259541034698486,
+          "moving_time": 1348.0
         },
         "2026-05-22": {
           "activity_ids": [
-            "18605302329"
+            "23590310912"
           ],
           "count": 1,
           "distance": 2127.0,
-          "elevation_gain": 2.3,
-          "moving_time": 1235.0
+          "elevation_gain": 3.1797783374786377,
+          "moving_time": 1262.0
         }
       },
       "VirtualRide": {
-        "2026-02-19": {
-          "activity_ids": [
-            "17526153959"
-          ],
-          "count": 1,
-          "distance": 11000.0,
-          "elevation_gain": 0.0,
-          "moving_time": 1200.0
-        },
-        "2026-02-20": {
-          "activity_ids": [
-            "17526151170"
-          ],
-          "count": 1,
-          "distance": 11100.0,
-          "elevation_gain": 0.0,
-          "moving_time": 1200.0
-        },
-        "2026-02-23": {
-          "activity_ids": [
-            "17526168674"
-          ],
-          "count": 1,
-          "distance": 11200.0,
-          "elevation_gain": 0.0,
-          "moving_time": 1200.0
-        },
-        "2026-02-24": {
-          "activity_ids": [
-            "17526144066"
-          ],
-          "count": 1,
-          "distance": 11400.0,
-          "elevation_gain": 0.0,
-          "moving_time": 1200.0
-        },
-        "2026-02-26": {
-          "activity_ids": [
-            "17526138254"
-          ],
-          "count": 1,
-          "distance": 11600.0,
-          "elevation_gain": 0.0,
-          "moving_time": 1200.0
-        },
-        "2026-03-07": {
-          "activity_ids": [
-            "17630383782"
-          ],
-          "count": 1,
-          "distance": 11400.0,
-          "elevation_gain": 0.0,
-          "moving_time": 1200.0
-        },
-        "2026-03-09": {
-          "activity_ids": [
-            "17678404894"
-          ],
-          "count": 1,
-          "distance": 11200.0,
-          "elevation_gain": 0.0,
-          "moving_time": 1200.0
-        },
-        "2026-03-12": {
-          "activity_ids": [
-            "17693426254"
-          ],
-          "count": 1,
-          "distance": 11600.0,
-          "elevation_gain": 0.0,
-          "moving_time": 1200.0
-        },
-        "2026-03-13": {
-          "activity_ids": [
-            "17704664260"
-          ],
-          "count": 1,
-          "distance": 11500.0,
-          "elevation_gain": 0.0,
-          "moving_time": 1200.0
-        },
-        "2026-03-15": {
-          "activity_ids": [
-            "17729209124"
-          ],
-          "count": 1,
-          "distance": 11900.0,
-          "elevation_gain": 0.0,
-          "moving_time": 1200.0
-        },
-        "2026-03-16": {
-          "activity_ids": [
-            "17739321895"
-          ],
-          "count": 1,
-          "distance": 12000.0,
-          "elevation_gain": 0.0,
-          "moving_time": 1200.0
-        },
-        "2026-03-22": {
-          "activity_ids": [
-            "17809698597"
-          ],
-          "count": 1,
-          "distance": 30300.0,
-          "elevation_gain": 0.0,
-          "moving_time": 3600.0
-        },
-        "2026-04-04": {
-          "activity_ids": [
-            "17971403890"
-          ],
-          "count": 1,
-          "distance": 31000.0,
-          "elevation_gain": 0.0,
-          "moving_time": 3600.0
-        },
-        "2026-04-06": {
-          "activity_ids": [
-            "17994624854"
-          ],
-          "count": 1,
-          "distance": 21500.0,
-          "elevation_gain": 0.0,
-          "moving_time": 2400.0
-        },
-        "2026-04-07": {
-          "activity_ids": [
-            "18011280501"
-          ],
-          "count": 1,
-          "distance": 21600.0,
-          "elevation_gain": 0.0,
-          "moving_time": 2400.0
-        },
-        "2026-04-12": {
-          "activity_ids": [
-            "18075661841"
-          ],
-          "count": 1,
-          "distance": 21000.0,
-          "elevation_gain": 0.0,
-          "moving_time": 2400.0
-        },
-        "2026-04-13": {
-          "activity_ids": [
-            "18088682257"
-          ],
-          "count": 1,
-          "distance": 21800.0,
-          "elevation_gain": 0.0,
-          "moving_time": 2400.0
-        },
-        "2026-04-18": {
-          "activity_ids": [
-            "18153864094"
-          ],
-          "count": 1,
-          "distance": 21000.0,
-          "elevation_gain": 0.0,
-          "moving_time": 2400.0
-        },
-        "2026-04-20": {
-          "activity_ids": [
-            "18180928660"
-          ],
-          "count": 1,
-          "distance": 10100.0,
-          "elevation_gain": 0.0,
-          "moving_time": 1200.0
-        },
-        "2026-04-21": {
-          "activity_ids": [
-            "18194830357"
-          ],
-          "count": 1,
-          "distance": 10500.0,
-          "elevation_gain": 0.0,
-          "moving_time": 1200.0
-        },
-        "2026-04-28": {
-          "activity_ids": [
-            "18288821947"
-          ],
-          "count": 1,
-          "distance": 10900.0,
-          "elevation_gain": 0.0,
-          "moving_time": 1200.0
-        },
-        "2026-04-29": {
-          "activity_ids": [
-            "18302132148"
-          ],
-          "count": 1,
-          "distance": 21800.0,
-          "elevation_gain": 0.0,
-          "moving_time": 2400.0
-        },
-        "2026-04-30": {
-          "activity_ids": [
-            "18315600015"
-          ],
-          "count": 1,
-          "distance": 11200.0,
-          "elevation_gain": 0.0,
-          "moving_time": 1200.0
-        },
-        "2026-05-01": {
-          "activity_ids": [
-            "18328197138"
-          ],
-          "count": 1,
-          "distance": 21300.0,
-          "elevation_gain": 0.0,
-          "moving_time": 2400.0
-        },
-        "2026-05-05": {
-          "activity_ids": [
-            "18382086354"
-          ],
-          "count": 1,
-          "distance": 32400.0,
-          "elevation_gain": 0.0,
-          "moving_time": 3600.0
-        },
-        "2026-05-12": {
-          "activity_ids": [
-            "18473908555"
-          ],
-          "count": 1,
-          "distance": 21700.0,
-          "elevation_gain": 0.0,
-          "moving_time": 2400.0
-        },
-        "2026-05-13": {
-          "activity_ids": [
-            "18487450805"
-          ],
-          "count": 1,
-          "distance": 21600.0,
-          "elevation_gain": 0.0,
-          "moving_time": 2400.0
-        },
         "2026-06-21": {
           "activity_ids": [
-            "19004587163",
-            "19006157712"
+            "23590310827",
+            "23590310905"
           ],
           "count": 2,
-          "distance": 11336.0,
-          "elevation_gain": 23.2,
-          "moving_time": 1365.0
+          "distance": 11336.14990234375,
+          "elevation_gain": 27.0,
+          "moving_time": 1364.0
         },
         "2026-06-28": {
           "activity_ids": [
-            "19092352453"
+            "23590310934"
           ],
           "count": 1,
-          "distance": 8140.7,
-          "elevation_gain": 73.8,
+          "distance": 8140.81005859375,
+          "elevation_gain": 74.0,
           "moving_time": 1263.0
         },
         "2026-06-30": {
           "activity_ids": [
-            "19118839121"
+            "23590311617"
           ],
           "count": 1,
-          "distance": 25682.1,
-          "elevation_gain": 112.6,
+          "distance": 25682.380859375,
+          "elevation_gain": 118.0,
           "moving_time": 3274.0
+        },
+        "2026-07-02": {
+          "activity_ids": [
+            "23590311222"
+          ],
+          "count": 1,
+          "distance": 11916.8896484375,
+          "elevation_gain": 71.0,
+          "moving_time": 1567.0
+        }
+      },
+      "Workout": {
+        "2026-01-31": {
+          "activity_ids": [
+            "23590314396"
+          ],
+          "count": 1,
+          "distance": 13535.558113302533,
+          "elevation_gain": 171.2637232542038,
+          "moving_time": 3813.0
+        },
+        "2026-02-01": {
+          "activity_ids": [
+            "23590311699",
+            "23590365615"
+          ],
+          "count": 2,
+          "distance": 35022.63206740978,
+          "elevation_gain": 428.3627765625715,
+          "moving_time": 15343.0
+        },
+        "2026-02-03": {
+          "activity_ids": [
+            "23590365566"
+          ],
+          "count": 1,
+          "distance": 38895.28277628161,
+          "elevation_gain": 383.5332515593618,
+          "moving_time": 9699.0
+        },
+        "2026-02-04": {
+          "activity_ids": [
+            "23590295489"
+          ],
+          "count": 1,
+          "distance": 73053.59023765089,
+          "elevation_gain": 692.0411375267431,
+          "moving_time": 18824.095999999998
+        },
+        "2026-02-10": {
+          "activity_ids": [
+            "23590313662"
+          ],
+          "count": 1,
+          "distance": 6812.923360514116,
+          "elevation_gain": 417.3565673828125,
+          "moving_time": 4518.0
+        },
+        "2026-02-28": {
+          "activity_ids": [
+            "23590312583"
+          ],
+          "count": 1,
+          "distance": 3910.828992594054,
+          "elevation_gain": 50.02294921875,
+          "moving_time": 2058.0
+        },
+        "2026-03-12": {
+          "activity_ids": [
+            "23590310689"
+          ],
+          "count": 1,
+          "distance": 482.0,
+          "elevation_gain": 0.19074630737304688,
+          "moving_time": 237.0
+        },
+        "2026-03-23": {
+          "activity_ids": [
+            "23590336993"
+          ],
+          "count": 1,
+          "distance": 10178.0,
+          "elevation_gain": 440.315185546875,
+          "moving_time": 12086.0
+        },
+        "2026-03-24": {
+          "activity_ids": [
+            "23590314393"
+          ],
+          "count": 1,
+          "distance": 9863.0,
+          "elevation_gain": 89.92533111572266,
+          "moving_time": 3435.0
+        },
+        "2026-03-25": {
+          "activity_ids": [
+            "23590314093",
+            "23590334799"
+          ],
+          "count": 2,
+          "distance": 27855.0,
+          "elevation_gain": 363.0845642089844,
+          "moving_time": 10696.0
+        },
+        "2026-03-30": {
+          "activity_ids": [
+            "23590314137"
+          ],
+          "count": 1,
+          "distance": 12151.0,
+          "elevation_gain": 145.50326919555664,
+          "moving_time": 3026.0
+        },
+        "2026-04-17": {
+          "activity_ids": [
+            "23590341028"
+          ],
+          "count": 1,
+          "distance": 8717.0,
+          "elevation_gain": 1237.9561767578125,
+          "moving_time": 7064.0
+        },
+        "2026-04-18": {
+          "activity_ids": [
+            "23590313849"
+          ],
+          "count": 1,
+          "distance": 5015.0,
+          "elevation_gain": 72.24078941345215,
+          "moving_time": 2005.0
+        },
+        "2026-04-23": {
+          "activity_ids": [
+            "23590368711"
+          ],
+          "count": 1,
+          "distance": 70223.2137641438,
+          "elevation_gain": 1010.112476348877,
+          "moving_time": 14246.0
+        },
+        "2026-04-25": {
+          "activity_ids": [
+            "23590313631"
+          ],
+          "count": 1,
+          "distance": 5060.0,
+          "elevation_gain": 81.26630280911922,
+          "moving_time": 1935.0
+        },
+        "2026-05-12": {
+          "activity_ids": [
+            "23590365507"
+          ],
+          "count": 1,
+          "distance": 16724.755814613272,
+          "elevation_gain": 221.6756248474121,
+          "moving_time": 4162.0
+        },
+        "2026-05-31": {
+          "activity_ids": [
+            "23590355352"
+          ],
+          "count": 1,
+          "distance": 80413.75783455746,
+          "elevation_gain": 163.39245846215636,
+          "moving_time": 15903.0
+        },
+        "2026-06-04": {
+          "activity_ids": [
+            "23590355505"
+          ],
+          "count": 1,
+          "distance": 123746.2471452247,
+          "elevation_gain": 765.5886535644531,
+          "moving_time": 24478.0
+        },
+        "2026-06-10": {
+          "activity_ids": [
+            "23590313326"
+          ],
+          "count": 1,
+          "distance": 5857.996312843785,
+          "elevation_gain": 136.627068400383,
+          "moving_time": 2355.0
         }
       }
     }
