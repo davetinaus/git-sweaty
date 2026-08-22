@@ -229,6 +229,7 @@ GARMIN_TYPE_ALIASES_BY_SLUG = {
     "roadbiking": "Ride",
     "roadcycling": "Ride",
     "indoorcycling": "VirtualRide",
+    "indoor_cycling": "VirtualRide",
     "virtualcycling": "VirtualRide",
     "virtualride": "VirtualRide",
     "mountainbiking": "MountainBikeRide",
