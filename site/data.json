@@ -584,6 +584,15 @@
       "type": "Ride",
       "url": "https://connect.garmin.com/modern/activity/23590310918",
       "year": 2026
+    },
+    {
+      "date": "2026-08-21",
+      "hour": 18,
+      "name": "run",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/24069001194",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -943,6 +952,15 @@
           "distance": 2127.0,
           "elevation_gain": 3.1797783374786377,
           "moving_time": 1262.0
+        },
+        "2026-08-21": {
+          "activity_ids": [
+            "24069001194"
+          ],
+          "count": 1,
+          "distance": 10000.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3600.0
         }
       },
       "VirtualRide": {
@@ -1162,7 +1180,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/554abf26-909b-4f91-83b3-077c2d9e7756",
-  "generated_at": "2026-08-22T08:09:33.344344+00:00",
+  "generated_at": "2026-08-22T08:11:50.641499+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/554abf26-909b-4f91-83b3-077c2d9e7756",
   "repo": "davetinaus/git-sweaty",
