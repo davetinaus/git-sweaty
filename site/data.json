@@ -1,231 +1,6 @@
 {
   "activities": [
     {
-      "date": "2024-05-13",
-      "hour": 21,
-      "name": "Sydney Other",
-      "subtype": "other",
-      "type": "Workout",
-      "url": "https://connect.garmin.com/modern/activity/23590311463",
-      "year": 2024
-    },
-    {
-      "date": "2024-09-15",
-      "hour": 7,
-      "name": "Sydney Other",
-      "subtype": "other",
-      "type": "Workout",
-      "url": "https://connect.garmin.com/modern/activity/23590368237",
-      "year": 2024
-    },
-    {
-      "date": "2024-12-14",
-      "hour": 14,
-      "name": "Bimberi Other",
-      "subtype": "other",
-      "type": "Workout",
-      "url": "https://connect.garmin.com/modern/activity/23590311596",
-      "year": 2024
-    },
-    {
-      "date": "2025-01-11",
-      "hour": 21,
-      "name": "Sydney Other",
-      "subtype": "other",
-      "type": "Workout",
-      "url": "https://connect.garmin.com/modern/activity/23590312029",
-      "year": 2025
-    },
-    {
-      "date": "2025-01-13",
-      "hour": 21,
-      "name": "Sydney Other",
-      "subtype": "other",
-      "type": "Workout",
-      "url": "https://connect.garmin.com/modern/activity/23590311507",
-      "year": 2025
-    },
-    {
-      "date": "2025-01-17",
-      "hour": 20,
-      "name": "Sydney Other",
-      "subtype": "other",
-      "type": "Workout",
-      "url": "https://connect.garmin.com/modern/activity/23590311678",
-      "year": 2025
-    },
-    {
-      "date": "2025-03-21",
-      "hour": 22,
-      "name": "Sydney Other",
-      "subtype": "other",
-      "type": "Workout",
-      "url": "https://connect.garmin.com/modern/activity/23590311666",
-      "year": 2025
-    },
-    {
-      "date": "2025-03-22",
-      "hour": 20,
-      "name": "Sydney Other",
-      "subtype": "other",
-      "type": "Workout",
-      "url": "https://connect.garmin.com/modern/activity/23590311705",
-      "year": 2025
-    },
-    {
-      "date": "2025-06-25",
-      "hour": 9,
-      "name": "Bressanone Other",
-      "subtype": "other",
-      "type": "Workout",
-      "url": "https://connect.garmin.com/modern/activity/23590334578",
-      "year": 2025
-    },
-    {
-      "date": "2025-09-20",
-      "hour": 10,
-      "name": "Blue Mountains National Park Other",
-      "subtype": "other",
-      "type": "Workout",
-      "url": "https://connect.garmin.com/modern/activity/23590359002",
-      "year": 2025
-    },
-    {
-      "date": "2025-09-21",
-      "hour": 20,
-      "name": "Sydney Other",
-      "subtype": "other",
-      "type": "Workout",
-      "url": "https://connect.garmin.com/modern/activity/23590312017",
-      "year": 2025
-    },
-    {
-      "date": "2025-10-21",
-      "hour": 10,
-      "name": "Xi'an Other",
-      "subtype": "other",
-      "type": "Workout",
-      "url": "https://connect.garmin.com/modern/activity/23590359398",
-      "year": 2025
-    },
-    {
-      "date": "2025-12-13",
-      "hour": 9,
-      "name": "Cape Bridgewater Other",
-      "subtype": "other",
-      "type": "Workout",
-      "url": "https://connect.garmin.com/modern/activity/23590313748",
-      "year": 2025
-    },
-    {
-      "date": "2025-12-14",
-      "hour": 9,
-      "name": "Cape Bridgewater Other",
-      "subtype": "other",
-      "type": "Workout",
-      "url": "https://connect.garmin.com/modern/activity/23590313749",
-      "year": 2025
-    },
-    {
-      "date": "2025-12-15",
-      "hour": 9,
-      "name": "Drumborg Other",
-      "subtype": "other",
-      "type": "Workout",
-      "url": "https://connect.garmin.com/modern/activity/23590311928",
-      "year": 2025
-    },
-    {
-      "date": "2025-12-16",
-      "hour": 7,
-      "name": "Gorae Other",
-      "subtype": "other",
-      "type": "Workout",
-      "url": "https://connect.garmin.com/modern/activity/23590311929",
-      "year": 2025
-    },
-    {
-      "date": "2025-12-31",
-      "hour": 20,
-      "name": "Sydney Other",
-      "subtype": "other",
-      "type": "Workout",
-      "url": "https://connect.garmin.com/modern/activity/23590311251",
-      "year": 2025
-    },
-    {
-      "date": "2026-01-31",
-      "hour": 14,
-      "name": "Anping District Other",
-      "subtype": "other",
-      "type": "Workout",
-      "url": "https://connect.garmin.com/modern/activity/23590314396",
-      "year": 2026
-    },
-    {
-      "date": "2026-02-01",
-      "hour": 20,
-      "name": "North District Other",
-      "subtype": "other",
-      "type": "Workout",
-      "url": "https://connect.garmin.com/modern/activity/23590311699",
-      "year": 2026
-    },
-    {
-      "date": "2026-02-01",
-      "hour": 14,
-      "name": "Cijin District Other",
-      "subtype": "other",
-      "type": "Workout",
-      "url": "https://connect.garmin.com/modern/activity/23590365615",
-      "year": 2026
-    },
-    {
-      "date": "2026-02-03",
-      "hour": 8,
-      "name": "Datong District Other",
-      "subtype": "other",
-      "type": "Workout",
-      "url": "https://connect.garmin.com/modern/activity/23590365566",
-      "year": 2026
-    },
-    {
-      "date": "2026-02-04",
-      "hour": 7,
-      "name": "Wanhua District Other",
-      "subtype": "other",
-      "type": "Workout",
-      "url": "https://connect.garmin.com/modern/activity/23590295489",
-      "year": 2026
-    },
-    {
-      "date": "2026-02-10",
-      "hour": 9,
-      "name": "Blue Mountains National Park Other",
-      "subtype": "other",
-      "type": "Workout",
-      "url": "https://connect.garmin.com/modern/activity/23590313662",
-      "year": 2026
-    },
-    {
-      "date": "2026-02-28",
-      "hour": 19,
-      "name": "Orange Other",
-      "subtype": "other",
-      "type": "Workout",
-      "url": "https://connect.garmin.com/modern/activity/23590312583",
-      "year": 2026
-    },
-    {
-      "date": "2026-03-12",
-      "hour": 17,
-      "name": "Sydney Other",
-      "subtype": "other",
-      "type": "Workout",
-      "url": "https://connect.garmin.com/modern/activity/23590310689",
-      "year": 2026
-    },
-    {
       "date": "2026-03-16",
       "hour": 15,
       "name": "Sydney Running",
@@ -244,51 +19,6 @@
       "year": 2026
     },
     {
-      "date": "2026-03-23",
-      "hour": 11,
-      "name": "Huairou Other",
-      "subtype": "other",
-      "type": "Workout",
-      "url": "https://connect.garmin.com/modern/activity/23590336993",
-      "year": 2026
-    },
-    {
-      "date": "2026-03-24",
-      "hour": 19,
-      "name": "Xicheng Other",
-      "subtype": "other",
-      "type": "Workout",
-      "url": "https://connect.garmin.com/modern/activity/23590314393",
-      "year": 2026
-    },
-    {
-      "date": "2026-03-25",
-      "hour": 19,
-      "name": "Dongcheng Other",
-      "subtype": "other",
-      "type": "Workout",
-      "url": "https://connect.garmin.com/modern/activity/23590314093",
-      "year": 2026
-    },
-    {
-      "date": "2026-03-25",
-      "hour": 23,
-      "name": "Chaoyang Other",
-      "subtype": "other",
-      "type": "Workout",
-      "url": "https://connect.garmin.com/modern/activity/23590334799",
-      "year": 2026
-    },
-    {
-      "date": "2026-03-30",
-      "hour": 23,
-      "name": "Dongcheng Other",
-      "subtype": "other",
-      "type": "Workout",
-      "url": "https://connect.garmin.com/modern/activity/23590314137",
-      "year": 2026
-    },
-    {
       "date": "2026-04-09",
       "hour": 20,
       "name": "Sydney Cycling",
@@ -298,39 +28,57 @@
       "year": 2026
     },
     {
-      "date": "2026-04-17",
-      "hour": 10,
-      "name": "Blue Mountains National Park Other",
-      "subtype": "other",
-      "type": "Workout",
-      "url": "https://connect.garmin.com/modern/activity/23590341028",
-      "year": 2026
-    },
-    {
-      "date": "2026-04-18",
-      "hour": 7,
-      "name": "Sydney Other",
-      "subtype": "other",
-      "type": "Workout",
-      "url": "https://connect.garmin.com/modern/activity/23590313849",
-      "year": 2026
-    },
-    {
-      "date": "2026-04-23",
-      "hour": 8,
-      "name": "Sydney Other",
-      "subtype": "other",
-      "type": "Workout",
-      "url": "https://connect.garmin.com/modern/activity/23590368711",
-      "year": 2026
-    },
-    {
       "date": "2026-04-25",
       "hour": 8,
-      "name": "Sydney Other",
-      "subtype": "other",
-      "type": "Workout",
-      "url": "https://connect.garmin.com/modern/activity/23590313631",
+      "name": "Wentworth Common Parkrun",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/24068584097",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-28",
+      "hour": 18,
+      "name": "Evening Activity",
+      "subtype": "indoor_cycling",
+      "type": "VirtualRide",
+      "url": "https://connect.garmin.com/modern/activity/24068583502",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-29",
+      "hour": 16,
+      "name": "Afternoon Activity",
+      "subtype": "indoor_cycling",
+      "type": "VirtualRide",
+      "url": "https://connect.garmin.com/modern/activity/24068583081",
+      "year": 2026
+    },
+    {
+      "date": "2026-04-30",
+      "hour": 17,
+      "name": "Afternoon Activity",
+      "subtype": "indoor_cycling",
+      "type": "VirtualRide",
+      "url": "https://connect.garmin.com/modern/activity/24068582640",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-01",
+      "hour": 17,
+      "name": "Afternoon Activity",
+      "subtype": "indoor_cycling",
+      "type": "VirtualRide",
+      "url": "https://connect.garmin.com/modern/activity/24068582275",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-05",
+      "hour": 18,
+      "name": "Evening Activity",
+      "subtype": "indoor_cycling",
+      "type": "VirtualRide",
+      "url": "https://connect.garmin.com/modern/activity/24068581858",
       "year": 2026
     },
     {
@@ -343,12 +91,39 @@
       "year": 2026
     },
     {
+      "date": "2026-05-11",
+      "hour": 11,
+      "name": "Blackheath Hanging Rock",
+      "subtype": "cycling",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/24068581348",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-12",
+      "hour": 17,
+      "name": "Afternoon Ride",
+      "subtype": "indoor_cycling",
+      "type": "VirtualRide",
+      "url": "https://connect.garmin.com/modern/activity/24068579848",
+      "year": 2026
+    },
+    {
       "date": "2026-05-12",
       "hour": 9,
-      "name": "Sydney Other",
-      "subtype": "other",
-      "type": "Workout",
-      "url": "https://connect.garmin.com/modern/activity/23590365507",
+      "name": "Brief M7 ride before the rain",
+      "subtype": "cycling",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/24068580628",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-13",
+      "hour": 17,
+      "name": "Afternoon Activity",
+      "subtype": "indoor_cycling",
+      "type": "VirtualRide",
+      "url": "https://connect.garmin.com/modern/activity/24068579443",
       "year": 2026
     },
     {
@@ -361,6 +136,15 @@
       "year": 2026
     },
     {
+      "date": "2026-05-21",
+      "hour": 8,
+      "name": "Samoa",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/24068578940",
+      "year": 2026
+    },
+    {
       "date": "2026-05-22",
       "hour": 6,
       "name": "Sunshine Coast Running",
@@ -370,12 +154,30 @@
       "year": 2026
     },
     {
+      "date": "2026-05-22",
+      "hour": 6,
+      "name": "Marcoola beach",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/24068578291",
+      "year": 2026
+    },
+    {
       "date": "2026-05-29",
       "hour": 8,
       "name": "Shibukawa City Cycling",
       "subtype": "cycling",
       "type": "Ride",
       "url": "https://connect.garmin.com/modern/activity/23590314383",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-29",
+      "hour": 8,
+      "name": "Shibukawa City Running",
+      "subtype": "running",
+      "type": "Run",
+      "url": "https://connect.garmin.com/modern/activity/24068573869",
       "year": 2026
     },
     {
@@ -397,12 +199,30 @@
       "year": 2026
     },
     {
+      "date": "2026-05-30",
+      "hour": 17,
+      "name": "Sawara to hotel",
+      "subtype": "cycling",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/24068562781",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-30",
+      "hour": 8,
+      "name": "Tone River D2 - Noda -> Choshi",
+      "subtype": "cycling",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/24068565037",
+      "year": 2026
+    },
+    {
       "date": "2026-05-31",
       "hour": 8,
-      "name": "Inashiki City Other",
-      "subtype": "other",
-      "type": "Workout",
-      "url": "https://connect.garmin.com/modern/activity/23590355352",
+      "name": "Lake Kasumigaura",
+      "subtype": "cycling",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/24068561897",
       "year": 2026
     },
     {
@@ -415,6 +235,15 @@
       "year": 2026
     },
     {
+      "date": "2026-06-01",
+      "hour": 9,
+      "name": "Fushimi Inari-taisha, Japan",
+      "subtype": "hiking",
+      "type": "Hike",
+      "url": "https://connect.garmin.com/modern/activity/24068560713",
+      "year": 2026
+    },
+    {
       "date": "2026-06-03",
       "hour": 12,
       "name": "Uji City Hiking",
@@ -424,12 +253,21 @@
       "year": 2026
     },
     {
+      "date": "2026-06-03",
+      "hour": 12,
+      "name": "Uji, Japan",
+      "subtype": "hiking",
+      "type": "Hike",
+      "url": "https://connect.garmin.com/modern/activity/24068559841",
+      "year": 2026
+    },
+    {
       "date": "2026-06-04",
       "hour": 9,
-      "name": "Otsu City Other",
-      "subtype": "other",
-      "type": "Workout",
-      "url": "https://connect.garmin.com/modern/activity/23590355505",
+      "name": "Lake Biwa - D1",
+      "subtype": "cycling",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/24068559125",
       "year": 2026
     },
     {
@@ -442,6 +280,15 @@
       "year": 2026
     },
     {
+      "date": "2026-06-05",
+      "hour": 8,
+      "name": "Lake Biwa - D2",
+      "subtype": "cycling",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/24068557416",
+      "year": 2026
+    },
+    {
       "date": "2026-06-09",
       "hour": 11,
       "name": "Hatsukaichi City Hiking",
@@ -451,12 +298,12 @@
       "year": 2026
     },
     {
-      "date": "2026-06-10",
-      "hour": 14,
-      "name": "Takehara City Other",
-      "subtype": "other",
-      "type": "Workout",
-      "url": "https://connect.garmin.com/modern/activity/23590313326",
+      "date": "2026-06-09",
+      "hour": 11,
+      "name": "Mt Misen - Miyajima, Japan",
+      "subtype": "hiking",
+      "type": "Hike",
+      "url": "https://connect.garmin.com/modern/activity/24068555678",
       "year": 2026
     },
     {
@@ -466,6 +313,24 @@
       "subtype": "cycling",
       "type": "Ride",
       "url": "https://connect.garmin.com/modern/activity/23590314184",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-10",
+      "hour": 14,
+      "name": "Rabbit island",
+      "subtype": "cycling",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/24068552130",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-10",
+      "hour": 8,
+      "name": "Shimanami Kaido",
+      "subtype": "cycling",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/24068554236",
       "year": 2026
     },
     {
@@ -487,12 +352,39 @@
       "year": 2026
     },
     {
+      "date": "2026-06-21",
+      "hour": 17,
+      "name": "MyWhoosh - Parramatta",
+      "subtype": "indoor_cycling",
+      "type": "VirtualRide",
+      "url": "https://connect.garmin.com/modern/activity/24068550923",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-21",
+      "hour": 5,
+      "name": "MyWhoosh - Brussels Town Square",
+      "subtype": "indoor_cycling",
+      "type": "VirtualRide",
+      "url": "https://connect.garmin.com/modern/activity/24068551467",
+      "year": 2026
+    },
+    {
       "date": "2026-06-22",
       "hour": 13,
       "name": "Woodford Cycling",
       "subtype": "cycling",
       "type": "Ride",
       "url": "https://connect.garmin.com/modern/activity/23590311893",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-22",
+      "hour": 13,
+      "name": "Blue Mountains - Woodford to Glenbrook",
+      "subtype": "cycling",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/24068550319",
       "year": 2026
     },
     {
@@ -505,6 +397,15 @@
       "year": 2026
     },
     {
+      "date": "2026-06-24",
+      "hour": 9,
+      "name": "Parkes - Forbes - Parkes",
+      "subtype": "cycling",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/24068549111",
+      "year": 2026
+    },
+    {
       "date": "2026-06-26",
       "hour": 11,
       "name": "Blue Mountains National Park Cycling",
@@ -514,12 +415,21 @@
       "year": 2026
     },
     {
-      "date": "2026-06-28",
+      "date": "2026-06-26",
       "hour": 11,
-      "name": "Houyet Virtual Cycling",
-      "subtype": "virtual_ride",
+      "name": "Blue Mountains - Faulconbridge Point",
+      "subtype": "cycling",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/24068544040",
+      "year": 2026
+    },
+    {
+      "date": "2026-06-28",
+      "hour": 3,
+      "name": "MyWhoosh - Ardennes",
+      "subtype": "indoor_cycling",
       "type": "VirtualRide",
-      "url": "https://connect.garmin.com/modern/activity/23590310934",
+      "url": "https://connect.garmin.com/modern/activity/24068543265",
       "year": 2026
     },
     {
@@ -532,12 +442,21 @@
       "year": 2026
     },
     {
-      "date": "2026-07-02",
-      "hour": 16,
-      "name": "Zurich Virtual Cycling",
-      "subtype": "virtual_ride",
+      "date": "2026-06-30",
+      "hour": 6,
+      "name": "MyWhoosh - 1min + Endurance #1",
+      "subtype": "indoor_cycling",
       "type": "VirtualRide",
-      "url": "https://connect.garmin.com/modern/activity/23590311222",
+      "url": "https://connect.garmin.com/modern/activity/24068542625",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-02",
+      "hour": 8,
+      "name": "MyWhoosh - Capital Circuit",
+      "subtype": "indoor_cycling",
+      "type": "VirtualRide",
+      "url": "https://connect.garmin.com/modern/activity/24068541761",
       "year": 2026
     },
     {
@@ -550,21 +469,30 @@
       "year": 2026
     },
     {
-      "date": "2026-07-04",
-      "hour": 13,
-      "name": "Fiddletown Cycling",
+      "date": "2026-07-03",
+      "hour": 11,
+      "name": "Arcadia to Murramurra",
       "subtype": "cycling",
       "type": "Ride",
-      "url": "https://connect.garmin.com/modern/activity/23590311524",
+      "url": "https://connect.garmin.com/modern/activity/24068541146",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-04",
+      "hour": 13,
+      "name": "Murramurra exploration",
+      "subtype": "cycling",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/24068540374",
       "year": 2026
     },
     {
       "date": "2026-07-05",
       "hour": 9,
-      "name": "Fiddletown Cycling",
+      "name": "Murramurra Term 2 Biv NavEx",
       "subtype": "cycling",
       "type": "Ride",
-      "url": "https://connect.garmin.com/modern/activity/23590311752",
+      "url": "https://connect.garmin.com/modern/activity/24068539635",
       "year": 2026
     },
     {
@@ -577,6 +505,15 @@
       "year": 2026
     },
     {
+      "date": "2026-07-11",
+      "hour": 14,
+      "name": "Seacliff Bridge",
+      "subtype": "hiking",
+      "type": "Hike",
+      "url": "https://connect.garmin.com/modern/activity/24068538701",
+      "year": 2026
+    },
+    {
       "date": "2026-07-14",
       "hour": 9,
       "name": "Katoomba Cycling",
@@ -586,177 +523,52 @@
       "year": 2026
     },
     {
-      "date": "2026-08-21",
-      "hour": 18,
-      "name": "run",
-      "subtype": "running",
-      "type": "Run",
-      "url": "https://connect.garmin.com/modern/activity/24069001194",
+      "date": "2026-07-14",
+      "hour": 9,
+      "name": "Narrowneck - partial attempt",
+      "subtype": "cycling",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/24068537866",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-15",
+      "hour": 4,
+      "name": "Mission Stage 1 : Paris to the Provinces",
+      "subtype": "indoor_cycling",
+      "type": "VirtualRide",
+      "url": "https://connect.garmin.com/modern/activity/24068522103",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-16",
+      "hour": 10,
+      "name": "MyWhoosh - Intervals - What are they?",
+      "subtype": "indoor_cycling",
+      "type": "VirtualRide",
+      "url": "https://connect.garmin.com/modern/activity/24068521375",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-18",
+      "hour": 4,
+      "name": "MyWhoosh - Intervals - What are they?",
+      "subtype": "indoor_cycling",
+      "type": "VirtualRide",
+      "url": "https://connect.garmin.com/modern/activity/24068520639",
+      "year": 2026
+    },
+    {
+      "date": "2026-07-28",
+      "hour": 8,
+      "name": "Mission Stage 2 : The Summit",
+      "subtype": "indoor_cycling",
+      "type": "VirtualRide",
+      "url": "https://connect.garmin.com/modern/activity/24068519863",
       "year": 2026
     }
   ],
   "aggregates": {
-    "2024": {
-      "Workout": {
-        "2024-05-13": {
-          "activity_ids": [
-            "23590311463"
-          ],
-          "count": 1,
-          "distance": 2431.226728776171,
-          "elevation_gain": 41.90411376953125,
-          "moving_time": 1016.0
-        },
-        "2024-09-15": {
-          "activity_ids": [
-            "23590368237"
-          ],
-          "count": 1,
-          "distance": 44343.91818989473,
-          "elevation_gain": 1245.3923780545592,
-          "moving_time": 21626.0
-        },
-        "2024-12-14": {
-          "activity_ids": [
-            "23590311596"
-          ],
-          "count": 1,
-          "distance": 37926.848723584975,
-          "elevation_gain": 647.1612548828125,
-          "moving_time": 67015.21399999996
-        }
-      }
-    },
-    "2025": {
-      "Workout": {
-        "2025-01-11": {
-          "activity_ids": [
-            "23590312029"
-          ],
-          "count": 1,
-          "distance": 2467.944429268782,
-          "elevation_gain": 43.91965866088867,
-          "moving_time": 1157.0
-        },
-        "2025-01-13": {
-          "activity_ids": [
-            "23590311507"
-          ],
-          "count": 1,
-          "distance": 2457.3241565538524,
-          "elevation_gain": 40.5923957824707,
-          "moving_time": 957.0
-        },
-        "2025-01-17": {
-          "activity_ids": [
-            "23590311678"
-          ],
-          "count": 1,
-          "distance": 2443.9062659440665,
-          "elevation_gain": 41.24813461303711,
-          "moving_time": 940.0
-        },
-        "2025-03-21": {
-          "activity_ids": [
-            "23590311666"
-          ],
-          "count": 1,
-          "distance": 2434.7437378465943,
-          "elevation_gain": 43.80076599121094,
-          "moving_time": 955.0
-        },
-        "2025-03-22": {
-          "activity_ids": [
-            "23590311705"
-          ],
-          "count": 1,
-          "distance": 2421.7281567503173,
-          "elevation_gain": 40.687713623046875,
-          "moving_time": 1021.0
-        },
-        "2025-06-25": {
-          "activity_ids": [
-            "23590334578"
-          ],
-          "count": 1,
-          "distance": 34460.0,
-          "elevation_gain": 2168.122314453125,
-          "moving_time": 32397.0
-        },
-        "2025-09-20": {
-          "activity_ids": [
-            "23590359002"
-          ],
-          "count": 1,
-          "distance": 6611.517615499377,
-          "elevation_gain": 580.225341796875,
-          "moving_time": 4613.0
-        },
-        "2025-09-21": {
-          "activity_ids": [
-            "23590312017"
-          ],
-          "count": 1,
-          "distance": 1412.9608206984954,
-          "elevation_gain": 18.346050262451172,
-          "moving_time": 616.0
-        },
-        "2025-10-21": {
-          "activity_ids": [
-            "23590359398"
-          ],
-          "count": 1,
-          "distance": 12710.0,
-          "elevation_gain": 160.66403198242188,
-          "moving_time": 5068.0
-        },
-        "2025-12-13": {
-          "activity_ids": [
-            "23590313748"
-          ],
-          "count": 1,
-          "distance": 14520.457799536385,
-          "elevation_gain": 291.32586145401,
-          "moving_time": 28799.44
-        },
-        "2025-12-14": {
-          "activity_ids": [
-            "23590313749"
-          ],
-          "count": 1,
-          "distance": 21752.880103389023,
-          "elevation_gain": 252.74731826782227,
-          "moving_time": 28782.60700000003
-        },
-        "2025-12-15": {
-          "activity_ids": [
-            "23590311928"
-          ],
-          "count": 1,
-          "distance": 14671.285634007956,
-          "elevation_gain": 77.71573257446289,
-          "moving_time": 19767.380000000023
-        },
-        "2025-12-16": {
-          "activity_ids": [
-            "23590311929"
-          ],
-          "count": 1,
-          "distance": 19935.10000941271,
-          "elevation_gain": 102.63777542114258,
-          "moving_time": 19797.560000000016
-        },
-        "2025-12-31": {
-          "activity_ids": [
-            "23590311251"
-          ],
-          "count": 1,
-          "distance": 2428.3925581338644,
-          "elevation_gain": 43.01875686645508,
-          "moving_time": 969.0
-        }
-      }
-    },
     "2026": {
       "Hike": {
         "2026-03-18": {
@@ -770,39 +582,43 @@
         },
         "2026-06-01": {
           "activity_ids": [
-            "23590311467"
+            "23590311467",
+            "24068560713"
           ],
-          "count": 1,
-          "distance": 4521.0,
-          "elevation_gain": 195.64276123046875,
-          "moving_time": 3251.0
+          "count": 2,
+          "distance": 9042.0,
+          "elevation_gain": 394.5508232116699,
+          "moving_time": 6806.0
         },
         "2026-06-03": {
           "activity_ids": [
-            "23590310904"
+            "23590310904",
+            "24068559841"
           ],
-          "count": 1,
-          "distance": 2075.0,
-          "elevation_gain": 140.29263305664062,
-          "moving_time": 1462.0
+          "count": 2,
+          "distance": 4150.0,
+          "elevation_gain": 281.00197982788086,
+          "moving_time": 2803.0
         },
         "2026-06-09": {
           "activity_ids": [
-            "23590311701"
+            "23590311701",
+            "24068555678"
           ],
-          "count": 1,
-          "distance": 8275.0,
-          "elevation_gain": 685.45920753479,
-          "moving_time": 8429.0
+          "count": 2,
+          "distance": 16550.0,
+          "elevation_gain": 1376.3439493179321,
+          "moving_time": 15198.0
         },
         "2026-07-11": {
           "activity_ids": [
-            "23590311803"
+            "23590311803",
+            "24068538701"
           ],
-          "count": 1,
-          "distance": 6893.0,
-          "elevation_gain": 216.86918449401855,
-          "moving_time": 3131.0
+          "count": 2,
+          "distance": 10278.7,
+          "elevation_gain": 411.8864336013794,
+          "moving_time": 6201.0
         }
       },
       "Ride": {
@@ -817,12 +633,22 @@
         },
         "2026-05-11": {
           "activity_ids": [
-            "23590311464"
+            "23590311464",
+            "24068581348"
+          ],
+          "count": 2,
+          "distance": 20376.0,
+          "elevation_gain": 324.12640380859375,
+          "moving_time": 6247.0
+        },
+        "2026-05-12": {
+          "activity_ids": [
+            "24068580628"
           ],
           "count": 1,
-          "distance": 10188.0,
-          "elevation_gain": 159.12664794921875,
-          "moving_time": 3136.0
+          "distance": 16621.1,
+          "elevation_gain": 221.6756248474121,
+          "moving_time": 4065.0
         },
         "2026-05-29": {
           "activity_ids": [
@@ -836,93 +662,121 @@
         "2026-05-30": {
           "activity_ids": [
             "23590310740",
-            "23590313719"
+            "23590313719",
+            "24068562781",
+            "24068565037"
           ],
-          "count": 2,
-          "distance": 104859.0,
-          "elevation_gain": 605.4435619823635,
-          "moving_time": 21607.0
+          "count": 4,
+          "distance": 209718.0,
+          "elevation_gain": 1221.815321803093,
+          "moving_time": 43063.0
+        },
+        "2026-05-31": {
+          "activity_ids": [
+            "24068561897"
+          ],
+          "count": 1,
+          "distance": 80458.3,
+          "elevation_gain": 163.39245846215636,
+          "moving_time": 16069.0
+        },
+        "2026-06-04": {
+          "activity_ids": [
+            "24068559125"
+          ],
+          "count": 1,
+          "distance": 123839.0,
+          "elevation_gain": 931.9428329467773,
+          "moving_time": 24877.0
         },
         "2026-06-05": {
           "activity_ids": [
-            "23590312590"
+            "23590312590",
+            "24068557416"
           ],
-          "count": 1,
-          "distance": 66172.0,
-          "elevation_gain": 315.51702880859375,
-          "moving_time": 13883.0
+          "count": 2,
+          "distance": 132344.0,
+          "elevation_gain": 632.6000747680664,
+          "moving_time": 27651.0
         },
         "2026-06-10": {
           "activity_ids": [
-            "23590314184"
+            "23590314184",
+            "24068552130",
+            "24068554236"
           ],
-          "count": 1,
-          "distance": 87486.0,
-          "elevation_gain": 1630.8564853146672,
-          "moving_time": 18213.0
+          "count": 3,
+          "distance": 180635.0,
+          "elevation_gain": 3400.323706842959,
+          "moving_time": 38541.0
         },
         "2026-06-22": {
           "activity_ids": [
-            "23590311893"
+            "23590311893",
+            "24068550319"
           ],
-          "count": 1,
-          "distance": 27165.0,
-          "elevation_gain": 408.34069061279297,
-          "moving_time": 6402.0
+          "count": 2,
+          "distance": 54330.0,
+          "elevation_gain": 809.0200576782227,
+          "moving_time": 12809.0
         },
         "2026-06-24": {
           "activity_ids": [
-            "23590314106"
+            "23590314106",
+            "24068549111"
           ],
-          "count": 1,
-          "distance": 83783.0,
-          "elevation_gain": 601.4377136230469,
-          "moving_time": 16573.0
+          "count": 2,
+          "distance": 167566.0,
+          "elevation_gain": 1196.0241088867188,
+          "moving_time": 33108.0
         },
         "2026-06-26": {
           "activity_ids": [
-            "23590311587"
+            "23590311587",
+            "24068544040"
           ],
-          "count": 1,
-          "distance": 13391.0,
-          "elevation_gain": 265.9476013183594,
-          "moving_time": 3428.0
+          "count": 2,
+          "distance": 26782.0,
+          "elevation_gain": 543.6286010742188,
+          "moving_time": 6856.0
         },
         "2026-07-03": {
           "activity_ids": [
-            "23590311428"
+            "23590311428",
+            "24068541146"
           ],
-          "count": 1,
-          "distance": 16487.0,
-          "elevation_gain": 241.5740509033203,
-          "moving_time": 3435.0
+          "count": 2,
+          "distance": 32974.0,
+          "elevation_gain": 483.1942443847656,
+          "moving_time": 6880.0
         },
         "2026-07-04": {
           "activity_ids": [
-            "23590311524"
+            "24068540374"
           ],
           "count": 1,
           "distance": 9683.0,
-          "elevation_gain": 130.40213012695312,
-          "moving_time": 2855.0
+          "elevation_gain": 130.47018432617188,
+          "moving_time": 2879.0
         },
         "2026-07-05": {
           "activity_ids": [
-            "23590311752"
+            "24068539635"
           ],
           "count": 1,
           "distance": 14083.0,
-          "elevation_gain": 218.84268188476562,
-          "moving_time": 5606.0
+          "elevation_gain": 234.39906311035156,
+          "moving_time": 5155.0
         },
         "2026-07-14": {
           "activity_ids": [
-            "23590310918"
+            "23590310918",
+            "24068537866"
           ],
-          "count": 1,
-          "distance": 5305.0,
-          "elevation_gain": 198.88238525390625,
-          "moving_time": 1917.0
+          "count": 2,
+          "distance": 10610.0,
+          "elevation_gain": 397.67523193359375,
+          "moving_time": 3820.0
         }
       },
       "Run": {
@@ -935,252 +789,190 @@
           "elevation_gain": 0.0,
           "moving_time": 191.0
         },
-        "2026-05-21": {
+        "2026-04-25": {
           "activity_ids": [
-            "23590310991"
+            "24068584097"
           ],
           "count": 1,
-          "distance": 2208.0,
-          "elevation_gain": 22.259541034698486,
-          "moving_time": 1348.0
+          "distance": 5248.0,
+          "elevation_gain": 72.19081217050552,
+          "moving_time": 1943.0
+        },
+        "2026-05-21": {
+          "activity_ids": [
+            "23590310991",
+            "24068578940"
+          ],
+          "count": 2,
+          "distance": 4416.0,
+          "elevation_gain": 44.850909948349,
+          "moving_time": 2559.0
         },
         "2026-05-22": {
           "activity_ids": [
-            "23590310912"
+            "23590310912",
+            "24068578291"
           ],
-          "count": 1,
-          "distance": 2127.0,
-          "elevation_gain": 3.1797783374786377,
-          "moving_time": 1262.0
+          "count": 2,
+          "distance": 4254.0,
+          "elevation_gain": 6.357273459434509,
+          "moving_time": 2531.0
         },
-        "2026-08-21": {
+        "2026-05-29": {
           "activity_ids": [
-            "24069001194"
+            "24068573869"
           ],
           "count": 1,
-          "distance": 10000.0,
-          "elevation_gain": 0.0,
-          "moving_time": 3600.0
+          "distance": 128014.0,
+          "elevation_gain": 741.7908192873001,
+          "moving_time": 32795.0
         }
       },
       "VirtualRide": {
+        "2026-04-28": {
+          "activity_ids": [
+            "24068583502"
+          ],
+          "count": 1,
+          "distance": 10900.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1200.0
+        },
+        "2026-04-29": {
+          "activity_ids": [
+            "24068583081"
+          ],
+          "count": 1,
+          "distance": 21800.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2400.0
+        },
+        "2026-04-30": {
+          "activity_ids": [
+            "24068582640"
+          ],
+          "count": 1,
+          "distance": 11200.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1200.0
+        },
+        "2026-05-01": {
+          "activity_ids": [
+            "24068582275"
+          ],
+          "count": 1,
+          "distance": 21300.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2400.0
+        },
+        "2026-05-05": {
+          "activity_ids": [
+            "24068581858"
+          ],
+          "count": 1,
+          "distance": 32400.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3600.0
+        },
+        "2026-05-12": {
+          "activity_ids": [
+            "24068579848"
+          ],
+          "count": 1,
+          "distance": 21700.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2400.0
+        },
+        "2026-05-13": {
+          "activity_ids": [
+            "24068579443"
+          ],
+          "count": 1,
+          "distance": 21600.0,
+          "elevation_gain": 0.0,
+          "moving_time": 2400.0
+        },
         "2026-06-21": {
           "activity_ids": [
             "23590310827",
-            "23590310905"
+            "23590310905",
+            "24068550923",
+            "24068551467"
           ],
-          "count": 2,
-          "distance": 11336.14990234375,
-          "elevation_gain": 27.0,
-          "moving_time": 1364.0
+          "count": 4,
+          "distance": 22672.14990234375,
+          "elevation_gain": 115.28357887268066,
+          "moving_time": 2728.0
         },
         "2026-06-28": {
           "activity_ids": [
-            "23590310934"
+            "24068543265"
           ],
           "count": 1,
-          "distance": 8140.81005859375,
-          "elevation_gain": 74.0,
+          "distance": 8140.7,
+          "elevation_gain": 419.0388870239258,
           "moving_time": 1263.0
         },
         "2026-06-30": {
           "activity_ids": [
-            "23590311617"
+            "23590311617",
+            "24068542625"
           ],
-          "count": 1,
-          "distance": 25682.380859375,
-          "elevation_gain": 118.0,
-          "moving_time": 3274.0
+          "count": 2,
+          "distance": 51364.480859375,
+          "elevation_gain": 1053.2210388183594,
+          "moving_time": 6548.0
         },
         "2026-07-02": {
           "activity_ids": [
-            "23590311222"
+            "24068541761"
           ],
           "count": 1,
-          "distance": 11916.8896484375,
-          "elevation_gain": 71.0,
+          "distance": 11916.5,
+          "elevation_gain": 1097.2424926757812,
           "moving_time": 1567.0
-        }
-      },
-      "Workout": {
-        "2026-01-31": {
+        },
+        "2026-07-15": {
           "activity_ids": [
-            "23590314396"
+            "24068522103"
           ],
           "count": 1,
-          "distance": 13535.558113302533,
-          "elevation_gain": 171.2637232542038,
-          "moving_time": 3813.0
+          "distance": 19025.0,
+          "elevation_gain": 323.0210266113281,
+          "moving_time": 2426.0
         },
-        "2026-02-01": {
+        "2026-07-16": {
           "activity_ids": [
-            "23590311699",
-            "23590365615"
-          ],
-          "count": 2,
-          "distance": 35022.63206740978,
-          "elevation_gain": 428.3627765625715,
-          "moving_time": 15343.0
-        },
-        "2026-02-03": {
-          "activity_ids": [
-            "23590365566"
+            "24068521375"
           ],
           "count": 1,
-          "distance": 38895.28277628161,
-          "elevation_gain": 383.5332515593618,
-          "moving_time": 9699.0
+          "distance": 14228.8,
+          "elevation_gain": 252.2044448852539,
+          "moving_time": 1637.0
         },
-        "2026-02-04": {
+        "2026-07-18": {
           "activity_ids": [
-            "23590295489"
+            "24068520639"
           ],
           "count": 1,
-          "distance": 73053.59023765089,
-          "elevation_gain": 692.0411375267431,
-          "moving_time": 18824.095999999998
+          "distance": 17769.5,
+          "elevation_gain": 287.0390930175781,
+          "moving_time": 2071.0
         },
-        "2026-02-10": {
+        "2026-07-28": {
           "activity_ids": [
-            "23590313662"
+            "24068519863"
           ],
           "count": 1,
-          "distance": 6812.923360514116,
-          "elevation_gain": 417.3565673828125,
-          "moving_time": 4518.0
-        },
-        "2026-02-28": {
-          "activity_ids": [
-            "23590312583"
-          ],
-          "count": 1,
-          "distance": 3910.828992594054,
-          "elevation_gain": 50.02294921875,
-          "moving_time": 2058.0
-        },
-        "2026-03-12": {
-          "activity_ids": [
-            "23590310689"
-          ],
-          "count": 1,
-          "distance": 482.0,
-          "elevation_gain": 0.19074630737304688,
-          "moving_time": 237.0
-        },
-        "2026-03-23": {
-          "activity_ids": [
-            "23590336993"
-          ],
-          "count": 1,
-          "distance": 10178.0,
-          "elevation_gain": 440.315185546875,
-          "moving_time": 12086.0
-        },
-        "2026-03-24": {
-          "activity_ids": [
-            "23590314393"
-          ],
-          "count": 1,
-          "distance": 9863.0,
-          "elevation_gain": 89.92533111572266,
-          "moving_time": 3435.0
-        },
-        "2026-03-25": {
-          "activity_ids": [
-            "23590314093",
-            "23590334799"
-          ],
-          "count": 2,
-          "distance": 27855.0,
-          "elevation_gain": 363.0845642089844,
-          "moving_time": 10696.0
-        },
-        "2026-03-30": {
-          "activity_ids": [
-            "23590314137"
-          ],
-          "count": 1,
-          "distance": 12151.0,
-          "elevation_gain": 145.50326919555664,
-          "moving_time": 3026.0
-        },
-        "2026-04-17": {
-          "activity_ids": [
-            "23590341028"
-          ],
-          "count": 1,
-          "distance": 8717.0,
-          "elevation_gain": 1237.9561767578125,
-          "moving_time": 7064.0
-        },
-        "2026-04-18": {
-          "activity_ids": [
-            "23590313849"
-          ],
-          "count": 1,
-          "distance": 5015.0,
-          "elevation_gain": 72.24078941345215,
-          "moving_time": 2005.0
-        },
-        "2026-04-23": {
-          "activity_ids": [
-            "23590368711"
-          ],
-          "count": 1,
-          "distance": 70223.2137641438,
-          "elevation_gain": 1010.112476348877,
-          "moving_time": 14246.0
-        },
-        "2026-04-25": {
-          "activity_ids": [
-            "23590313631"
-          ],
-          "count": 1,
-          "distance": 5060.0,
-          "elevation_gain": 81.26630280911922,
-          "moving_time": 1935.0
-        },
-        "2026-05-12": {
-          "activity_ids": [
-            "23590365507"
-          ],
-          "count": 1,
-          "distance": 16724.755814613272,
-          "elevation_gain": 221.6756248474121,
-          "moving_time": 4162.0
-        },
-        "2026-05-31": {
-          "activity_ids": [
-            "23590355352"
-          ],
-          "count": 1,
-          "distance": 80413.75783455746,
-          "elevation_gain": 163.39245846215636,
-          "moving_time": 15903.0
-        },
-        "2026-06-04": {
-          "activity_ids": [
-            "23590355505"
-          ],
-          "count": 1,
-          "distance": 123746.2471452247,
-          "elevation_gain": 765.5886535644531,
-          "moving_time": 24478.0
-        },
-        "2026-06-10": {
-          "activity_ids": [
-            "23590313326"
-          ],
-          "count": 1,
-          "distance": 5857.996312843785,
-          "elevation_gain": 136.627068400383,
-          "moving_time": 2355.0
+          "distance": 37294.8,
+          "elevation_gain": 717.9277954101562,
+          "moving_time": 7514.0
         }
       }
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/554abf26-909b-4f91-83b3-077c2d9e7756",
-  "generated_at": "2026-08-22T08:27:17.327533+00:00",
+  "generated_at": "2026-08-22T08:30:53.256875+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/554abf26-909b-4f91-83b3-077c2d9e7756",
   "repo": "davetinaus/git-sweaty",
@@ -1201,18 +993,13 @@
     "VirtualRide": {
       "accent": "#fee440",
       "label": "Virtual Ride"
-    },
-    "Workout": {
-      "accent": "#ff8a5b",
-      "label": "Other Workout"
     }
   },
   "types": [
     "Hike",
     "Ride",
     "Run",
-    "VirtualRide",
-    "Workout"
+    "VirtualRide"
   ],
   "units": {
     "distance": "km",
