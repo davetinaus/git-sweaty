@@ -817,5 +817,18 @@
     "start_date_local": "2026-07-28T08:00:19",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-08-22",
+    "distance": 18669.6,
+    "elevation_gain": 1344.45458984375,
+    "id": "24092963318",
+    "moving_time": 2364.0,
+    "name": "Mission Stage 3 : Off the Beaten Track",
+    "raw_activity_type": "indoor_cycling",
+    "raw_type": "indoor_cycling",
+    "start_date_local": "2026-08-22T13:01:01",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
