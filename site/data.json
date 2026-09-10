@@ -575,6 +575,33 @@
       "type": "VirtualRide",
       "url": "https://connect.garmin.com/modern/activity/24092963318",
       "year": 2026
+    },
+    {
+      "date": "2026-09-08",
+      "hour": 16,
+      "name": "Afternoon Ride",
+      "subtype": "indoor_cycling",
+      "type": "VirtualRide",
+      "url": "https://connect.garmin.com/modern/activity/24306631248",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-10",
+      "hour": 17,
+      "name": "Afternoon Virtual Row",
+      "subtype": "indoor_rowing",
+      "type": "VirtualRow",
+      "url": "https://connect.garmin.com/modern/activity/24306630349",
+      "year": 2026
+    },
+    {
+      "date": "2026-09-10",
+      "hour": 17,
+      "name": "Afternoon Activity",
+      "subtype": "indoor_cycling",
+      "type": "VirtualRide",
+      "url": "https://connect.garmin.com/modern/activity/24306630771",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -985,12 +1012,41 @@
           "distance": 18669.6,
           "elevation_gain": 1344.45458984375,
           "moving_time": 2364.0
+        },
+        "2026-09-08": {
+          "activity_ids": [
+            "24306631248"
+          ],
+          "count": 1,
+          "distance": 5600.0,
+          "elevation_gain": 0.0,
+          "moving_time": 900.0
+        },
+        "2026-09-10": {
+          "activity_ids": [
+            "24306630771"
+          ],
+          "count": 1,
+          "distance": 7300.0,
+          "elevation_gain": 0.0,
+          "moving_time": 900.0
+        }
+      },
+      "VirtualRow": {
+        "2026-09-10": {
+          "activity_ids": [
+            "24306630349"
+          ],
+          "count": 1,
+          "distance": 2000.0,
+          "elevation_gain": 0.0,
+          "moving_time": 578.0
         }
       }
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/554abf26-909b-4f91-83b3-077c2d9e7756",
-  "generated_at": "2026-09-09T18:20:59.201357+00:00",
+  "generated_at": "2026-09-10T09:04:42.378919+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/554abf26-909b-4f91-83b3-077c2d9e7756",
   "repo": "davetinaus/git-sweaty",
@@ -1011,13 +1067,18 @@
     "VirtualRide": {
       "accent": "#fee440",
       "label": "Virtual Ride"
+    },
+    "VirtualRow": {
+      "accent": "#ffbe0b",
+      "label": "Virtual Row"
     }
   },
   "types": [
     "Hike",
     "Ride",
     "Run",
-    "VirtualRide"
+    "VirtualRide",
+    "VirtualRow"
   ],
   "units": {
     "distance": "km",
