@@ -1415,5 +1415,44 @@
     "start_date_local": "2026-09-10T17:33:51",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-09-12",
+    "distance": 94088.1,
+    "elevation_gain": 1247.6431732177734,
+    "id": "24338312233",
+    "moving_time": 18882.0,
+    "name": "M7-M12-WSI",
+    "raw_activity_type": "cycling",
+    "raw_type": "cycling",
+    "start_date_local": "2026-09-12T08:53:18",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-12",
+    "distance": 438.6,
+    "elevation_gain": 8.229713439941406,
+    "id": "24338316411",
+    "moving_time": 128.0,
+    "name": "Morning Ride",
+    "raw_activity_type": "cycling",
+    "raw_type": "cycling",
+    "start_date_local": "2026-09-12T08:27:42",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-12",
+    "distance": 5007.0,
+    "elevation_gain": 69.83509004116058,
+    "id": "24338316885",
+    "moving_time": 1123.0,
+    "name": "Morning Ride",
+    "raw_activity_type": "cycling",
+    "raw_type": "cycling",
+    "start_date_local": "2026-09-12T06:45:45",
+    "type": "Ride",
+    "year": 2026
   }
 ]
