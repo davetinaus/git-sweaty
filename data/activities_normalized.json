@@ -1454,5 +1454,44 @@
     "start_date_local": "2026-09-12T06:45:45",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-09-13",
+    "distance": 2000.0,
+    "elevation_gain": 0.0,
+    "id": "24405120585",
+    "moving_time": 652.0,
+    "name": "Evening Row",
+    "raw_activity_type": "indoor_rowing",
+    "raw_type": "indoor_rowing",
+    "start_date_local": "2026-09-13T20:00:00",
+    "type": "VirtualRow",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-13",
+    "distance": 9200.0,
+    "elevation_gain": 0.0,
+    "id": "24405120973",
+    "moving_time": 1200.0,
+    "name": "Evening Activity",
+    "raw_activity_type": "indoor_cycling",
+    "raw_type": "indoor_cycling",
+    "start_date_local": "2026-09-13T18:30:16",
+    "type": "VirtualRide",
+    "year": 2026
+  },
+  {
+    "date": "2026-09-17",
+    "distance": 13900.0,
+    "elevation_gain": 0.0,
+    "id": "24405116742",
+    "moving_time": 1800.0,
+    "name": "Afternoon Activity",
+    "raw_activity_type": "indoor_cycling",
+    "raw_type": "indoor_cycling",
+    "start_date_local": "2026-09-17T16:46:04",
+    "type": "VirtualRide",
+    "year": 2026
   }
 ]
