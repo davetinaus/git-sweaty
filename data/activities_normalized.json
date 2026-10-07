@@ -1506,5 +1506,57 @@
     "start_date_local": "2026-09-22T20:25:34",
     "type": "VirtualRide",
     "year": 2026
+  },
+  {
+    "date": "2026-10-04",
+    "distance": 86758.7,
+    "elevation_gain": 1226.8295695334673,
+    "id": "24639399911",
+    "moving_time": 16036.0,
+    "name": "Seoul to Busan - Day 1",
+    "raw_activity_type": "cycling",
+    "raw_type": "cycling",
+    "start_date_local": "2026-10-04T11:35:24",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-05",
+    "distance": 117514.0,
+    "elevation_gain": 1767.1661167144775,
+    "id": "24639398183",
+    "moving_time": 23836.0,
+    "name": "Seoul to Busan - Day 2",
+    "raw_activity_type": "cycling",
+    "raw_type": "cycling",
+    "start_date_local": "2026-10-05T06:40:18",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-06",
+    "distance": 79756.5,
+    "elevation_gain": 1279.1047744750977,
+    "id": "24639395108",
+    "moving_time": 16465.0,
+    "name": "Seoul to Busan - Day 3",
+    "raw_activity_type": "cycling",
+    "raw_type": "cycling",
+    "start_date_local": "2026-10-06T07:03:23",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-07",
+    "distance": 132065.0,
+    "elevation_gain": 1217.248532295227,
+    "id": "24639381830",
+    "moving_time": 25122.0,
+    "name": "Seoul to Busan - Day 4",
+    "raw_activity_type": "cycling",
+    "raw_type": "cycling",
+    "start_date_local": "2026-10-07T06:39:03",
+    "type": "Ride",
+    "year": 2026
   }
 ]

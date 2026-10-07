@@ -1043,6 +1043,42 @@
       "type": "VirtualRide",
       "url": "https://connect.garmin.com/modern/activity/24474679020",
       "year": 2026
+    },
+    {
+      "date": "2026-10-04",
+      "hour": 11,
+      "name": "Seoul to Busan - Day 1",
+      "subtype": "cycling",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/24639399911",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-05",
+      "hour": 6,
+      "name": "Seoul to Busan - Day 2",
+      "subtype": "cycling",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/24639398183",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-06",
+      "hour": 7,
+      "name": "Seoul to Busan - Day 3",
+      "subtype": "cycling",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/24639395108",
+      "year": 2026
+    },
+    {
+      "date": "2026-10-07",
+      "hour": 6,
+      "name": "Seoul to Busan - Day 4",
+      "subtype": "cycling",
+      "type": "Ride",
+      "url": "https://connect.garmin.com/modern/activity/24639381830",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -1629,6 +1665,42 @@
           "distance": 99533.70000000001,
           "elevation_gain": 1325.7079766988754,
           "moving_time": 20133.0
+        },
+        "2026-10-04": {
+          "activity_ids": [
+            "24639399911"
+          ],
+          "count": 1,
+          "distance": 86758.7,
+          "elevation_gain": 1226.8295695334673,
+          "moving_time": 16036.0
+        },
+        "2026-10-05": {
+          "activity_ids": [
+            "24639398183"
+          ],
+          "count": 1,
+          "distance": 117514.0,
+          "elevation_gain": 1767.1661167144775,
+          "moving_time": 23836.0
+        },
+        "2026-10-06": {
+          "activity_ids": [
+            "24639395108"
+          ],
+          "count": 1,
+          "distance": 79756.5,
+          "elevation_gain": 1279.1047744750977,
+          "moving_time": 16465.0
+        },
+        "2026-10-07": {
+          "activity_ids": [
+            "24639381830"
+          ],
+          "count": 1,
+          "distance": 132065.0,
+          "elevation_gain": 1217.248532295227,
+          "moving_time": 25122.0
         }
       },
       "Run": {
@@ -2064,7 +2136,7 @@
     }
   },
   "garmin_profile_url": "https://connect.garmin.com/modern/profile/554abf26-909b-4f91-83b3-077c2d9e7756",
-  "generated_at": "2026-10-06T20:00:54.206800+00:00",
+  "generated_at": "2026-10-07T20:26:27.552035+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://connect.garmin.com/modern/profile/554abf26-909b-4f91-83b3-077c2d9e7756",
   "repo": "davetinaus/git-sweaty",
