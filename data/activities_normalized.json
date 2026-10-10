@@ -1558,5 +1558,31 @@
     "start_date_local": "2026-10-07T06:39:03",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-10-08",
+    "distance": 94591.1,
+    "elevation_gain": 1414.7645149230957,
+    "id": "24667253498",
+    "moving_time": 18442.0,
+    "name": "Seoul to Busan - Day 5",
+    "raw_activity_type": "cycling",
+    "raw_type": "cycling",
+    "start_date_local": "2026-10-08T06:58:49",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-10-09",
+    "distance": 103262.0,
+    "elevation_gain": 794.9698086604476,
+    "id": "24667252681",
+    "moving_time": 19994.0,
+    "name": "Morning Ride",
+    "raw_activity_type": "cycling",
+    "raw_type": "cycling",
+    "start_date_local": "2026-10-09T06:45:14",
+    "type": "Ride",
+    "year": 2026
   }
 ]
